@@ -2660,5 +2660,5530 @@
     "views": 736503,
     "likes": 4161,
     "updated": "2026-10-06"
+  },
+  {
+    "id": "grok",
+    "name": "Grok",
+    "logo": "",
+    "url": "https://grok.com",
+    "description": "xAI 推出的 AI 助手，实时联网幽默风趣。",
+    "category": "ai",
+    "tags": [
+      "AI聊天",
+      "大模型"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 324876,
+    "likes": 2476,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "mistral",
+    "name": "Mistral Le Chat",
+    "logo": "",
+    "url": "https://chat.mistral.ai",
+    "description": "法国 Mistral AI 的对话助手，欧洲大模型代表。",
+    "category": "ai",
+    "tags": [
+      "AI聊天",
+      "大模型"
+    ],
+    "country": "法国",
+    "language": "英文",
+    "views": 750376,
+    "likes": 923,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "llama",
+    "name": "Meta AI",
+    "logo": "",
+    "url": "https://www.meta.ai",
+    "description": "Meta 推出的 AI 助手，基于 Llama 开源模型。",
+    "category": "ai",
+    "tags": [
+      "AI聊天",
+      "大模型"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 699629,
+    "likes": 1046,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "poe",
+    "name": "Poe",
+    "logo": "",
+    "url": "https://poe.com",
+    "description": "Quora 出品，一个入口用遍多种 AI 模型。",
+    "category": "ai",
+    "tags": [
+      "AI聊天",
+      "大模型"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 350275,
+    "likes": 6408,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "characterai",
+    "name": "Character.AI",
+    "logo": "",
+    "url": "https://character.ai",
+    "description": "和虚拟角色聊天的 AI 平台。",
+    "category": "ai",
+    "tags": [
+      "AI聊天"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 58649,
+    "likes": 8468,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "you",
+    "name": "You.com",
+    "logo": "",
+    "url": "https://you.com",
+    "description": "AI 搜索引擎，问答带引用来源。",
+    "category": "ai",
+    "tags": [
+      "AI搜索"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 62162,
+    "likes": 3418,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "phind",
+    "name": "Phind",
+    "logo": "",
+    "url": "https://www.phind.com",
+    "description": "面向开发者的 AI 搜索引擎。",
+    "category": "ai",
+    "tags": [
+      "AI搜索",
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 567078,
+    "likes": 3512,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "blackbox",
+    "name": "Blackbox AI",
+    "logo": "",
+    "url": "https://www.blackbox.ai",
+    "description": "AI 编程助手，代码补全与问答。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 337863,
+    "likes": 380,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "codeium",
+    "name": "Codeium",
+    "logo": "",
+    "url": "https://codeium.com",
+    "description": "免费的 AI 代码补全工具。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 315086,
+    "likes": 8688,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "v0",
+    "name": "v0 by Vercel",
+    "logo": "",
+    "url": "https://v0.dev",
+    "description": "一句话生成 React 界面的 AI 工具。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 398924,
+    "likes": 594,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bolt",
+    "name": "Bolt.new",
+    "logo": "",
+    "url": "https://bolt.new",
+    "description": "浏览器里的 AI 全栈应用生成器。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 123844,
+    "likes": 7286,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "udio",
+    "name": "Udio",
+    "logo": "",
+    "url": "https://www.udio.com",
+    "description": "AI 音乐生成，媲美 Suno。",
+    "category": "ai",
+    "tags": [
+      "AI音乐"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 122585,
+    "likes": 7717,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "logo": "",
+    "url": "https://elevenlabs.io",
+    "description": "顶级 AI 语音合成与克隆。",
+    "category": "ai",
+    "tags": [
+      "AI配音"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 151129,
+    "likes": 5490,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "heygen",
+    "name": "HeyGen",
+    "logo": "",
+    "url": "https://www.heygen.com",
+    "description": "AI 数字人视频生成平台。",
+    "category": "ai",
+    "tags": [
+      "AI视频",
+      "AI配音"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 66538,
+    "likes": 2243,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "pika",
+    "name": "Pika",
+    "logo": "",
+    "url": "https://pika.art",
+    "description": "AI 视频生成工具。",
+    "category": "ai",
+    "tags": [
+      "AI视频"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 432711,
+    "likes": 1485,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "luma",
+    "name": "Luma Dream Machine",
+    "logo": "",
+    "url": "https://lumalabs.ai",
+    "description": "Luma 的 AI 视频生成模型。",
+    "category": "ai",
+    "tags": [
+      "AI视频"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 473295,
+    "likes": 4033,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "stability",
+    "name": "Stability AI",
+    "logo": "",
+    "url": "https://stability.ai",
+    "description": "Stable Diffusion 背后的公司。",
+    "category": "ai",
+    "tags": [
+      "AI绘图"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 748466,
+    "likes": 6189,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "leonardo",
+    "name": "Leonardo AI",
+    "logo": "",
+    "url": "https://leonardo.ai",
+    "description": "AI 绘画与游戏素材生成。",
+    "category": "ai",
+    "tags": [
+      "AI绘图"
+    ],
+    "country": "澳大利亚",
+    "language": "英文",
+    "views": 316710,
+    "likes": 552,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ideogram",
+    "name": "Ideogram",
+    "logo": "",
+    "url": "https://ideogram.ai",
+    "description": "擅长文字渲染的 AI 绘图。",
+    "category": "ai",
+    "tags": [
+      "AI绘图"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 536543,
+    "likes": 202,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "civitai",
+    "name": "Civitai",
+    "logo": "",
+    "url": "https://civitai.com",
+    "description": "Stable Diffusion 模型分享社区。",
+    "category": "ai",
+    "tags": [
+      "AI绘图",
+      "AI模型"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 763013,
+    "likes": 4439,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "gamma",
+    "name": "Gamma",
+    "logo": "",
+    "url": "https://gamma.app",
+    "description": "AI 一键生成演示文稿。",
+    "category": "ai",
+    "tags": [
+      "AI办公"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 44063,
+    "likes": 5908,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "groq",
+    "name": "Groq",
+    "logo": "",
+    "url": "https://groq.com",
+    "description": "超高速 AI 推理芯片与云服务。",
+    "category": "ai",
+    "tags": [
+      "大模型",
+      "AI基础设施"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 596499,
+    "likes": 6217,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "together",
+    "name": "Together AI",
+    "logo": "",
+    "url": "https://www.together.ai",
+    "description": "开源模型推理云平台。",
+    "category": "ai",
+    "tags": [
+      "大模型",
+      "AI基础设施"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 688734,
+    "likes": 3869,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "replicate",
+    "name": "Replicate",
+    "logo": "",
+    "url": "https://replicate.com",
+    "description": "一键运行开源 AI 模型。",
+    "category": "ai",
+    "tags": [
+      "AI模型"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 69561,
+    "likes": 7059,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain",
+    "logo": "",
+    "url": "https://www.langchain.com",
+    "description": "大模型应用开发框架。",
+    "category": "ai",
+    "tags": [
+      "AI Agent",
+      "开发框架"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 742980,
+    "likes": 3694,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "dify",
+    "name": "Dify",
+    "logo": "",
+    "url": "https://dify.ai",
+    "description": "开源的 LLM 应用开发平台。",
+    "category": "ai",
+    "tags": [
+      "AI Agent",
+      "开源"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 647747,
+    "likes": 5476,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "coze",
+    "name": "Coze 扣子",
+    "logo": "",
+    "url": "https://www.coze.cn",
+    "description": "字节跳动 AI Agent 搭建平台。",
+    "category": "ai",
+    "tags": [
+      "AI Agent"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 717928,
+    "likes": 3449,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tabnine",
+    "name": "Tabnine",
+    "logo": "",
+    "url": "https://www.tabnine.com",
+    "description": "AI 代码补全老牌工具。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 410899,
+    "likes": 8028,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "replit",
+    "name": "Replit",
+    "logo": "",
+    "url": "https://replit.com",
+    "description": "在线 AI 编程协作平台。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 750662,
+    "likes": 5332,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "logo": "",
+    "url": "https://lovable.dev",
+    "description": "用自然语言创建完整 Web 应用。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "瑞典",
+    "language": "英文",
+    "views": 29084,
+    "likes": 577,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "stackoverflow",
+    "name": "Stack Overflow",
+    "logo": "",
+    "url": "https://stackoverflow.com",
+    "description": "程序员问答圣地。",
+    "category": "dev",
+    "tags": [
+      "编程社区"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 1969202,
+    "likes": 25152,
+    "updated": "2026-10-06",
+    "featured": true
+  },
+  {
+    "id": "github_copilot_docs",
+    "name": "GitHub Docs",
+    "logo": "",
+    "url": "https://docs.github.com",
+    "description": "GitHub 官方文档。",
+    "category": "dev",
+    "tags": [
+      "技术文档"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 322892,
+    "likes": 3910,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "npm",
+    "name": "npm",
+    "logo": "",
+    "url": "https://www.npmjs.com",
+    "description": "JavaScript 包管理器。",
+    "category": "dev",
+    "tags": [
+      "包管理"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 299596,
+    "likes": 6302,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "pypi",
+    "name": "PyPI",
+    "logo": "",
+    "url": "https://pypi.org",
+    "description": "Python 包索引。",
+    "category": "dev",
+    "tags": [
+      "包管理"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 300743,
+    "likes": 1702,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "logo": "",
+    "url": "https://www.typescriptlang.org",
+    "description": "JavaScript 的超集，类型安全。",
+    "category": "dev",
+    "tags": [
+      "编程语言"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 428202,
+    "likes": 1936,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "logo": "",
+    "url": "https://react.dev",
+    "description": "Meta 的前端 UI 库。",
+    "category": "dev",
+    "tags": [
+      "开发框架"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 544084,
+    "likes": 2635,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "vue",
+    "name": "Vue.js",
+    "logo": "",
+    "url": "https://vuejs.org",
+    "description": "渐进式前端框架。",
+    "category": "dev",
+    "tags": [
+      "开发框架"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 583245,
+    "likes": 7663,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "logo": "",
+    "url": "https://nextjs.org",
+    "description": "React 全栈框架。",
+    "category": "dev",
+    "tags": [
+      "开发框架"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 788556,
+    "likes": 1820,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tailwind",
+    "name": "Tailwind CSS",
+    "logo": "",
+    "url": "https://tailwindcss.com",
+    "description": "实用优先的 CSS 框架。",
+    "category": "dev",
+    "tags": [
+      "开发框架"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 727053,
+    "likes": 5025,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "deno",
+    "name": "Deno",
+    "logo": "",
+    "url": "https://deno.com",
+    "description": "现代 JavaScript 运行时。",
+    "category": "dev",
+    "tags": [
+      "编程语言"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 408056,
+    "likes": 8107,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "jetbrains",
+    "name": "JetBrains",
+    "logo": "",
+    "url": "https://www.jetbrains.com",
+    "description": "专业 IDE 厂商（IDEA/PyCharm）。",
+    "category": "dev",
+    "tags": [
+      "IDE"
+    ],
+    "country": "捷克",
+    "language": "英文",
+    "views": 371143,
+    "likes": 2006,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "logo": "",
+    "url": "https://www.postman.com",
+    "description": "API 开发调试平台。",
+    "category": "dev",
+    "tags": [
+      "API平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 660622,
+    "likes": 448,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "swagger",
+    "name": "Swagger",
+    "logo": "",
+    "url": "https://swagger.io",
+    "description": "API 设计文档工具。",
+    "category": "dev",
+    "tags": [
+      "API平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 670276,
+    "likes": 2460,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "logo": "",
+    "url": "https://git-scm.com",
+    "description": "分布式版本控制系统。",
+    "category": "dev",
+    "tags": [
+      "Git"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 281988,
+    "likes": 4767,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "codeberg",
+    "name": "Codeberg",
+    "logo": "",
+    "url": "https://codeberg.org",
+    "description": "非营利开源代码托管。",
+    "category": "opensource",
+    "tags": [
+      "代码托管",
+      "开源"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 552233,
+    "likes": 150,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "sourceforge",
+    "name": "SourceForge",
+    "logo": "",
+    "url": "https://sourceforge.net",
+    "description": "老牌开源软件仓库。",
+    "category": "opensource",
+    "tags": [
+      "开源社区"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 203414,
+    "likes": 5596,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "opencollective",
+    "name": "Open Collective",
+    "logo": "",
+    "url": "https://opencollective.com",
+    "description": "开源项目资金管理。",
+    "category": "opensource",
+    "tags": [
+      "开源社区"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 132601,
+    "likes": 2300,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "apache",
+    "name": "Apache 软件基金会",
+    "logo": "",
+    "url": "https://www.apache.org",
+    "description": "顶级开源基金会。",
+    "category": "opensource",
+    "tags": [
+      "开源社区"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 476206,
+    "likes": 4950,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "sqlite",
+    "name": "SQLite",
+    "logo": "",
+    "url": "https://www.sqlite.org",
+    "description": "嵌入式关系数据库。",
+    "category": "database",
+    "tags": [
+      "数据库"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 332798,
+    "likes": 7376,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "mariadb",
+    "name": "MariaDB",
+    "logo": "",
+    "url": "https://mariadb.org",
+    "description": "MySQL 的开源分支。",
+    "category": "database",
+    "tags": [
+      "MySQL",
+      "开源"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 614970,
+    "likes": 6845,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "elasticsearch",
+    "name": "Elasticsearch",
+    "logo": "",
+    "url": "https://www.elastic.co",
+    "description": "分布式搜索分析引擎。",
+    "category": "database",
+    "tags": [
+      "数据库"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 653823,
+    "likes": 6061,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "supabase",
+    "name": "Supabase",
+    "logo": "",
+    "url": "https://supabase.com",
+    "description": "开源 Firebase 替代。",
+    "category": "database",
+    "tags": [
+      "数据库",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 344235,
+    "likes": 3392,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "planetscale",
+    "name": "PlanetScale",
+    "logo": "",
+    "url": "https://planetscale.com",
+    "description": "Serverless MySQL 平台。",
+    "category": "database",
+    "tags": [
+      "MySQL"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 592454,
+    "likes": 2016,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "dbeaver",
+    "name": "DBeaver",
+    "logo": "",
+    "url": "https://dbeaver.io",
+    "description": "免费通用数据库工具。",
+    "category": "database",
+    "tags": [
+      "数据库工具"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 410178,
+    "likes": 7356,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "grafana",
+    "name": "Grafana",
+    "logo": "",
+    "url": "https://grafana.com",
+    "description": "开源监控可视化。",
+    "category": "ops",
+    "tags": [
+      "DevOps",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 277453,
+    "likes": 4443,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "prometheus",
+    "name": "Prometheus",
+    "logo": "",
+    "url": "https://prometheus.io",
+    "description": "开源监控告警系统。",
+    "category": "ops",
+    "tags": [
+      "DevOps",
+      "开源"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 295480,
+    "likes": 3504,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "jenkins",
+    "name": "Jenkins",
+    "logo": "",
+    "url": "https://www.jenkins.io",
+    "description": "开源 CI/CD 自动化。",
+    "category": "ops",
+    "tags": [
+      "DevOps",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 719851,
+    "likes": 8917,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ansible",
+    "name": "Ansible",
+    "logo": "",
+    "url": "https://www.ansible.com",
+    "description": "自动化运维工具。",
+    "category": "ops",
+    "tags": [
+      "DevOps"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 303443,
+    "likes": 5460,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "terraform",
+    "name": "Terraform",
+    "logo": "",
+    "url": "https://www.terraform.io",
+    "description": "基础设施即代码。",
+    "category": "ops",
+    "tags": [
+      "DevOps"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 271469,
+    "likes": 5319,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "caddy",
+    "name": "Caddy",
+    "logo": "",
+    "url": "https://caddyserver.com",
+    "description": "自动 HTTPS 的 Web 服务器。",
+    "category": "ops",
+    "tags": [
+      "Nginx",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 382224,
+    "likes": 1231,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "portainer",
+    "name": "Portainer",
+    "logo": "",
+    "url": "https://www.portainer.io",
+    "description": "容器可视化管理。",
+    "category": "ops",
+    "tags": [
+      "Docker"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 597655,
+    "likes": 4394,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "onepanel",
+    "name": "1Panel",
+    "logo": "",
+    "url": "https://1panel.cn",
+    "description": "国产开源服务器面板。",
+    "category": "ops",
+    "tags": [
+      "Linux",
+      "面板"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 476112,
+    "likes": 8809,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "digitalocean",
+    "name": "DigitalOcean",
+    "logo": "",
+    "url": "https://www.digitalocean.com",
+    "description": "开发者云服务器。",
+    "category": "ops",
+    "tags": [
+      "云服务器"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 11164,
+    "likes": 8701,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "linode",
+    "name": "Linode",
+    "logo": "",
+    "url": "https://www.linode.com",
+    "description": "老牌 VPS 服务商。",
+    "category": "ops",
+    "tags": [
+      "云服务器"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 96649,
+    "likes": 8839,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bandwagon",
+    "name": "搬瓦工",
+    "logo": "",
+    "url": "https://bandwagonhost.com",
+    "description": "知名 VPS 服务商。",
+    "category": "ops",
+    "tags": [
+      "云服务器"
+    ],
+    "country": "美国",
+    "language": "中文",
+    "views": 337764,
+    "likes": 2762,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ssl_labs",
+    "name": "SSL Labs",
+    "logo": "",
+    "url": "https://www.ssllabs.com",
+    "description": "SSL 配置检测。",
+    "category": "nettools",
+    "tags": [
+      "SSL检测"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 708165,
+    "likes": 8451,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "dnschecker",
+    "name": "DNS Checker",
+    "logo": "",
+    "url": "https://dnschecker.org",
+    "description": "全球 DNS 解析检测。",
+    "category": "nettools",
+    "tags": [
+      "DNS查询"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 711071,
+    "likes": 288,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ipchicken",
+    "name": "IP 查询",
+    "logo": "",
+    "url": "https://www.ipchicken.com",
+    "description": "查看本机公网 IP。",
+    "category": "nettools",
+    "tags": [
+      "IP查询"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 233533,
+    "likes": 2410,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "fsf",
+    "name": "自由软件基金会",
+    "logo": "",
+    "url": "https://www.fsf.org",
+    "description": "FSF，自由软件运动。",
+    "category": "opensource",
+    "tags": [
+      "开源社区"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 555222,
+    "likes": 7553,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "linuxcn",
+    "name": "Linux 中国",
+    "logo": "",
+    "url": "https://linux.cn",
+    "description": "中文 Linux 社区。",
+    "category": "ops",
+    "tags": [
+      "Linux"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 350568,
+    "likes": 4347,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "dribbble",
+    "name": "Dribbble",
+    "logo": "",
+    "url": "https://dribbble.com",
+    "description": "设计师作品分享社区。",
+    "category": "design",
+    "tags": [
+      "UI设计"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 302202,
+    "likes": 5871,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "behance",
+    "name": "Behance",
+    "logo": "",
+    "url": "https://www.behance.net",
+    "description": "Adobe 旗下创意作品平台。",
+    "category": "design",
+    "tags": [
+      "UI设计"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 255571,
+    "likes": 208,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "logo": "",
+    "url": "https://www.pinterest.com",
+    "description": "灵感图片收藏社区。",
+    "category": "design",
+    "tags": [
+      "图片素材"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 379772,
+    "likes": 4242,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "pexels",
+    "name": "Pexels",
+    "logo": "",
+    "url": "https://www.pexels.com",
+    "description": "免费图片视频素材。",
+    "category": "design",
+    "tags": [
+      "图片素材"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 796585,
+    "likes": 7852,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "pixabay",
+    "name": "Pixabay",
+    "logo": "",
+    "url": "https://pixabay.com",
+    "description": "免费正版图片素材。",
+    "category": "design",
+    "tags": [
+      "图片素材"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 549891,
+    "likes": 2891,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "flaticon",
+    "name": "Flaticon",
+    "logo": "",
+    "url": "https://www.flaticon.com",
+    "description": "免费图标资源库。",
+    "category": "design",
+    "tags": [
+      "图标"
+    ],
+    "country": "西班牙",
+    "language": "英文",
+    "views": 408003,
+    "likes": 1042,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "iconfinder",
+    "name": "Iconfinder",
+    "logo": "",
+    "url": "https://www.iconfinder.com",
+    "description": "图标搜索引擎。",
+    "category": "design",
+    "tags": [
+      "图标"
+    ],
+    "country": "丹麦",
+    "language": "英文",
+    "views": 469884,
+    "likes": 605,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "googlefonts",
+    "name": "Google Fonts",
+    "logo": "",
+    "url": "https://fonts.google.com",
+    "description": "免费开源字体库。",
+    "category": "design",
+    "tags": [
+      "字体"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 257533,
+    "likes": 7552,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "dafont",
+    "name": "DaFont",
+    "logo": "",
+    "url": "https://www.dafont.com",
+    "description": "免费字体下载。",
+    "category": "design",
+    "tags": [
+      "字体"
+    ],
+    "country": "法国",
+    "language": "英文",
+    "views": 607204,
+    "likes": 4692,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "coolors",
+    "name": "Coolors",
+    "logo": "",
+    "url": "https://coolors.co",
+    "description": "配色方案生成器。",
+    "category": "design",
+    "tags": [
+      "UI设计"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 62947,
+    "likes": 2457,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "blender",
+    "name": "Blender",
+    "logo": "",
+    "url": "https://www.blender.org",
+    "description": "免费开源 3D 创作套件。",
+    "category": "design",
+    "tags": [
+      "3D模型",
+      "开源"
+    ],
+    "country": "荷兰",
+    "language": "英文",
+    "views": 101755,
+    "likes": 5044,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "sketchfab",
+    "name": "Sketchfab",
+    "logo": "",
+    "url": "https://sketchfab.com",
+    "description": "3D 模型分享平台。",
+    "category": "design",
+    "tags": [
+      "3D模型"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 378046,
+    "likes": 1419,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "remove_bg",
+    "name": "remove.bg",
+    "logo": "",
+    "url": "https://www.remove.bg",
+    "description": "AI 一键抠图。",
+    "category": "design",
+    "tags": [
+      "图片工具"
+    ],
+    "country": "奥地利",
+    "language": "英文",
+    "views": 400112,
+    "likes": 7452,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tinypng",
+    "name": "TinyPNG",
+    "logo": "",
+    "url": "https://tinypng.com",
+    "description": "在线图片压缩。",
+    "category": "design",
+    "tags": [
+      "图片工具"
+    ],
+    "country": "荷兰",
+    "language": "英文",
+    "views": 35253,
+    "likes": 2720,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "premiere",
+    "name": "Adobe Premiere",
+    "logo": "",
+    "url": "https://www.adobe.com/products/premiere.html",
+    "description": "专业视频剪辑软件。",
+    "category": "vcreate",
+    "tags": [
+      "视频编辑"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 86338,
+    "likes": 2095,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "finalcut",
+    "name": "Final Cut Pro",
+    "logo": "",
+    "url": "https://www.apple.com/final-cut-pro",
+    "description": "苹果专业剪辑软件。",
+    "category": "vcreate",
+    "tags": [
+      "视频编辑"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 286864,
+    "likes": 5248,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "aegisub",
+    "name": "Aegisub",
+    "logo": "",
+    "url": "https://aegisub.org",
+    "description": "开源字幕制作软件。",
+    "category": "vcreate",
+    "tags": [
+      "字幕工具",
+      "开源"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 150138,
+    "likes": 1173,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "arc_time",
+    "name": "Arctime",
+    "logo": "",
+    "url": "https://arctime.org",
+    "description": "免费字幕制作软件。",
+    "category": "vcreate",
+    "tags": [
+      "字幕工具"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 780270,
+    "likes": 7987,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "blender_video",
+    "name": "OpenShot",
+    "logo": "",
+    "url": "https://www.openshot.org",
+    "description": "免费开源视频编辑器。",
+    "category": "vcreate",
+    "tags": [
+      "视频编辑",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 276915,
+    "likes": 496,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "streamlabs",
+    "name": "Streamlabs",
+    "logo": "",
+    "url": "https://streamlabs.com",
+    "description": "直播工具套件。",
+    "category": "vcreate",
+    "tags": [
+      "直播工具"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 137009,
+    "likes": 952,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ms_office",
+    "name": "Microsoft 365",
+    "logo": "",
+    "url": "https://www.microsoft.com/microsoft-365",
+    "description": "微软办公套件。",
+    "category": "office",
+    "tags": [
+      "Office"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 719245,
+    "likes": 4142,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "wps",
+    "name": "WPS Office",
+    "logo": "",
+    "url": "https://www.wps.cn",
+    "description": "金山办公套件。",
+    "category": "office",
+    "tags": [
+      "Office"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 241426,
+    "likes": 4893,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "google_docs",
+    "name": "Google Docs",
+    "logo": "",
+    "url": "https://docs.google.com",
+    "description": "Google 在线文档。",
+    "category": "office",
+    "tags": [
+      "Office"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 270671,
+    "likes": 7212,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "libreoffice",
+    "name": "LibreOffice",
+    "logo": "",
+    "url": "https://www.libreoffice.org",
+    "description": "免费开源办公套件。",
+    "category": "office",
+    "tags": [
+      "Office",
+      "开源"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 290877,
+    "likes": 2804,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "smallpdf",
+    "name": "Smallpdf",
+    "logo": "",
+    "url": "https://smallpdf.com",
+    "description": "在线 PDF 工具。",
+    "category": "office",
+    "tags": [
+      "PDF"
+    ],
+    "country": "瑞士",
+    "language": "英文",
+    "views": 50374,
+    "likes": 8096,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "xmind",
+    "name": "XMind",
+    "logo": "",
+    "url": "https://www.xmind.cn",
+    "description": "思维导图软件。",
+    "category": "office",
+    "tags": [
+      "思维导图"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 292463,
+    "likes": 2039,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "processon",
+    "name": "ProcessOn",
+    "logo": "",
+    "url": "https://www.processon.com",
+    "description": "在线流程图协作。",
+    "category": "office",
+    "tags": [
+      "流程图"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 181675,
+    "likes": 70,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "regexr",
+    "name": "RegExr",
+    "logo": "",
+    "url": "https://regexr.com",
+    "description": "正则表达式学习测试。",
+    "category": "utils",
+    "tags": [
+      "开发工具"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 182707,
+    "likes": 2563,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "caniuse",
+    "name": "Can I use",
+    "logo": "",
+    "url": "https://caniuse.com",
+    "description": "浏览器兼容性查询。",
+    "category": "utils",
+    "tags": [
+      "开发工具"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 249233,
+    "likes": 3525,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "qr_code",
+    "name": "草料二维码",
+    "logo": "",
+    "url": "https://cli.im",
+    "description": "二维码生成美化。",
+    "category": "utils",
+    "tags": [
+      "二维码"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 314986,
+    "likes": 8005,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "convertio",
+    "name": "Convertio",
+    "logo": "",
+    "url": "https://convertio.co",
+    "description": "在线文件格式转换。",
+    "category": "utils",
+    "tags": [
+      "文件转换"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 541483,
+    "likes": 1430,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "temp_mail",
+    "name": "Temp Mail",
+    "logo": "",
+    "url": "https://temp-mail.org",
+    "description": "临时邮箱服务。",
+    "category": "utils",
+    "tags": [
+      "临时邮箱"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 476552,
+    "likes": 1031,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "10minutemail",
+    "name": "10 Minute Mail",
+    "logo": "",
+    "url": "https://10minutemail.com",
+    "description": "10 分钟临时邮箱。",
+    "category": "utils",
+    "tags": [
+      "临时邮箱"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 641973,
+    "likes": 5124,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "desmos",
+    "name": "Desmos",
+    "logo": "",
+    "url": "https://www.desmos.com",
+    "description": "在线图形计算器。",
+    "category": "utils",
+    "tags": [
+      "计算工具"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 356835,
+    "likes": 1243,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "earthnull",
+    "name": "Earth Nullschool",
+    "logo": "",
+    "url": "https://earth.nullschool.net",
+    "description": "全球气象可视化。",
+    "category": "utils",
+    "tags": [
+      "数据可视化"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 484601,
+    "likes": 5528,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "screenshot",
+    "name": "Screenshot Machine",
+    "logo": "",
+    "url": "https://www.screenshotmachine.com",
+    "description": "网站截图 API。",
+    "category": "utils",
+    "tags": [
+      "开发工具"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 576077,
+    "likes": 3227,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "downforeveryone",
+    "name": "Down For Everyone",
+    "logo": "",
+    "url": "https://downforeveryoneorjustme.com",
+    "description": "网站宕机检测。",
+    "category": "utils",
+    "tags": [
+      "网络工具"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 505057,
+    "likes": 1831,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "filmora",
+    "name": "万兴喵影",
+    "logo": "",
+    "url": "https://filmora.wondershare.cn",
+    "description": "易用的视频剪辑软件。",
+    "category": "vcreate",
+    "tags": [
+      "视频编辑"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 230416,
+    "likes": 8253,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bcut",
+    "name": "必剪",
+    "logo": "",
+    "url": "https://bcut.bilibili.com",
+    "description": "B站出品的视频剪辑工具。",
+    "category": "vcreate",
+    "tags": [
+      "视频编辑"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 236301,
+    "likes": 8797,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "wolfram",
+    "name": "WolframAlpha",
+    "logo": "",
+    "url": "https://www.wolframalpha.com",
+    "description": "计算知识引擎。",
+    "category": "utils",
+    "tags": [
+      "计算工具"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 200479,
+    "likes": 2283,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "edx",
+    "name": "edX",
+    "logo": "",
+    "url": "https://www.edx.org",
+    "description": "哈佛MIT创办的在线课程平台。",
+    "category": "learn",
+    "tags": [
+      "在线课程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 53480,
+    "likes": 4266,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "udemy",
+    "name": "Udemy",
+    "logo": "",
+    "url": "https://www.udemy.com",
+    "description": "技能课程市场。",
+    "category": "learn",
+    "tags": [
+      "在线课程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 121707,
+    "likes": 1623,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "udacity",
+    "name": "Udacity",
+    "logo": "",
+    "url": "https://www.udacity.com",
+    "description": "硅谷在线技术课程。",
+    "category": "learn",
+    "tags": [
+      "在线课程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 470947,
+    "likes": 7143,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "codecademy",
+    "name": "Codecademy",
+    "logo": "",
+    "url": "https://www.codecademy.com",
+    "description": "交互式编程学习。",
+    "category": "learn",
+    "tags": [
+      "编程学习"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 212169,
+    "likes": 7336,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "leetcode",
+    "name": "LeetCode",
+    "logo": "",
+    "url": "https://leetcode.com",
+    "description": "程序员刷题平台。",
+    "category": "learn",
+    "tags": [
+      "编程学习"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 529085,
+    "likes": 501,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "leetcode_cn",
+    "name": "力扣",
+    "logo": "",
+    "url": "https://leetcode.cn",
+    "description": "中文刷题平台。",
+    "category": "learn",
+    "tags": [
+      "编程学习"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 698310,
+    "likes": 1091,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "duolingo",
+    "name": "多邻国",
+    "logo": "",
+    "url": "https://www.duolingo.com",
+    "description": "游戏化语言学习。",
+    "category": "learn",
+    "tags": [
+      "英语学习"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 629908,
+    "likes": 2219,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bbc_learning",
+    "name": "BBC Learning English",
+    "logo": "",
+    "url": "https://www.bbc.co.uk/learningenglish",
+    "description": "BBC 英语学习。",
+    "category": "learn",
+    "tags": [
+      "英语学习"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 376750,
+    "likes": 5666,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ted",
+    "name": "TED",
+    "logo": "",
+    "url": "https://www.ted.com",
+    "description": "全球知名演讲平台。",
+    "category": "learn",
+    "tags": [
+      "在线课程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 205446,
+    "likes": 8818,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "wiki_how",
+    "name": "wikiHow",
+    "logo": "",
+    "url": "https://www.wikihow.com",
+    "description": "生活技能指南。",
+    "category": "learn",
+    "tags": [
+      "学术资源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 652162,
+    "likes": 5344,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "openstax",
+    "name": "OpenStax",
+    "logo": "",
+    "url": "https://openstax.org",
+    "description": "免费大学教材。",
+    "category": "learn",
+    "tags": [
+      "学术资源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 217892,
+    "likes": 7096,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "mit_ocw",
+    "name": "MIT OpenCourseWare",
+    "logo": "",
+    "url": "https://ocw.mit.edu",
+    "description": "MIT 免费开放课程。",
+    "category": "learn",
+    "tags": [
+      "在线课程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 37692,
+    "likes": 3530,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "jianshu",
+    "name": "简书",
+    "logo": "",
+    "url": "https://www.jianshu.com",
+    "description": "中文创作社区。",
+    "category": "learn",
+    "tags": [
+      "学术资源"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 781412,
+    "likes": 5143,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "semanticscholar",
+    "name": "Semantic Scholar",
+    "logo": "",
+    "url": "https://www.semanticscholar.org",
+    "description": "AI 驱动的学术搜索。",
+    "category": "academic",
+    "tags": [
+      "学术搜索"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 584968,
+    "likes": 4713,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "researchgate",
+    "name": "ResearchGate",
+    "logo": "",
+    "url": "https://www.researchgate.net",
+    "description": "科研人员社交网络。",
+    "category": "academic",
+    "tags": [
+      "论文平台"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 188416,
+    "likes": 8789,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "scihub",
+    "name": "Sci-Hub",
+    "logo": "",
+    "url": "https://www.sci-hub.st",
+    "description": "开放获取论文（注意版权）。",
+    "category": "academic",
+    "tags": [
+      "论文平台"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 410390,
+    "likes": 8994,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "jstor",
+    "name": "JSTOR",
+    "logo": "",
+    "url": "https://www.jstor.org",
+    "description": "学术期刊档案库。",
+    "category": "academic",
+    "tags": [
+      "论文平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 492776,
+    "likes": 3257,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "nature",
+    "name": "Nature",
+    "logo": "",
+    "url": "https://www.nature.com",
+    "description": "顶级科学期刊。",
+    "category": "academic",
+    "tags": [
+      "科研机构"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 80110,
+    "likes": 2119,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "logo": "",
+    "url": "https://www.science.org",
+    "description": "顶级科学期刊。",
+    "category": "academic",
+    "tags": [
+      "科研机构"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 468195,
+    "likes": 5265,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "plos",
+    "name": "PLOS",
+    "logo": "",
+    "url": "https://plos.org",
+    "description": "开放获取科学出版。",
+    "category": "academic",
+    "tags": [
+      "论文平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 161607,
+    "likes": 5510,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "orcid",
+    "name": "ORCID",
+    "logo": "",
+    "url": "https://orcid.org",
+    "description": "学者身份标识。",
+    "category": "academic",
+    "tags": [
+      "科研机构"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 346487,
+    "likes": 1098,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "gitbook",
+    "name": "GitBook",
+    "logo": "",
+    "url": "https://www.gitbook.com",
+    "description": "文档协作平台。",
+    "category": "docs",
+    "tags": [
+      "技术文档"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 324116,
+    "likes": 7356,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "readthedocs",
+    "name": "Read the Docs",
+    "logo": "",
+    "url": "https://readthedocs.org",
+    "description": "开源文档托管。",
+    "category": "docs",
+    "tags": [
+      "技术文档",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 674430,
+    "likes": 8727,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "devdocs",
+    "name": "DevDocs",
+    "logo": "",
+    "url": "https://devdocs.io",
+    "description": "开发者文档速查。",
+    "category": "docs",
+    "tags": [
+      "技术文档"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 752426,
+    "likes": 97,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "overapi",
+    "name": "OverAPI",
+    "logo": "",
+    "url": "https://overapi.com",
+    "description": "速查表合集。",
+    "category": "docs",
+    "tags": [
+      "技术文档"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 618939,
+    "likes": 6779,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "reuters",
+    "name": "路透社",
+    "logo": "",
+    "url": "https://www.reuters.com",
+    "description": "国际权威通讯社。",
+    "category": "news",
+    "tags": [
+      "国际新闻"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 596919,
+    "likes": 3336,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "apnews",
+    "name": "美联社",
+    "logo": "",
+    "url": "https://apnews.com",
+    "description": "美国权威通讯社。",
+    "category": "news",
+    "tags": [
+      "国际新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 191249,
+    "likes": 2996,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "guardian",
+    "name": "卫报",
+    "logo": "",
+    "url": "https://www.theguardian.com",
+    "description": "英国知名媒体。",
+    "category": "news",
+    "tags": [
+      "国际新闻"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 173482,
+    "likes": 372,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "nyt",
+    "name": "纽约时报",
+    "logo": "",
+    "url": "https://www.nytimes.com",
+    "description": "美国主流大报。",
+    "category": "news",
+    "tags": [
+      "国际新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 660111,
+    "likes": 2076,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "wsj",
+    "name": "华尔街日报",
+    "logo": "",
+    "url": "https://www.wsj.com",
+    "description": "财经权威媒体。",
+    "category": "news",
+    "tags": [
+      "财经新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 582098,
+    "likes": 1478,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ft",
+    "name": "金融时报",
+    "logo": "",
+    "url": "https://www.ft.com",
+    "description": "英国财经媒体。",
+    "category": "news",
+    "tags": [
+      "财经新闻"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 795772,
+    "likes": 4987,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "caixin",
+    "name": "财新",
+    "logo": "",
+    "url": "https://www.caixin.com",
+    "description": "中国财经媒体。",
+    "category": "news",
+    "tags": [
+      "财经新闻"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 213372,
+    "likes": 6628,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "thepaper",
+    "name": "澎湃新闻",
+    "logo": "",
+    "url": "https://www.thepaper.cn",
+    "description": "上海报业新媒体。",
+    "category": "news",
+    "tags": [
+      "国际新闻"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 201534,
+    "likes": 4124,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "theverge",
+    "name": "The Verge",
+    "logo": "",
+    "url": "https://www.theverge.com",
+    "description": "科技文化媒体。",
+    "category": "news",
+    "tags": [
+      "科技新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 346027,
+    "likes": 4651,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "wired",
+    "name": "Wired",
+    "logo": "",
+    "url": "https://www.wired.com",
+    "description": "科技杂志。",
+    "category": "news",
+    "tags": [
+      "科技新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 441544,
+    "likes": 1236,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "baidu_translate",
+    "name": "百度翻译",
+    "logo": "",
+    "url": "https://fanyi.baidu.com",
+    "description": "百度在线翻译。",
+    "category": "translate",
+    "tags": [
+      "在线翻译"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 597520,
+    "likes": 656,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tencent_translate",
+    "name": "腾讯翻译君",
+    "logo": "",
+    "url": "https://fanyi.qq.com",
+    "description": "腾讯在线翻译。",
+    "category": "translate",
+    "tags": [
+      "在线翻译"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 643219,
+    "likes": 217,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "kaggle_learn",
+    "name": "Kaggle Learn",
+    "logo": "",
+    "url": "https://www.kaggle.com/learn",
+    "description": "免费数据科学微课程。",
+    "category": "learn",
+    "tags": [
+      "编程学习"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 50884,
+    "likes": 5851,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "zhihu",
+    "name": "知乎",
+    "logo": "",
+    "url": "https://www.zhihu.com",
+    "description": "中文问答社区。",
+    "category": "learn",
+    "tags": [
+      "学术资源"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 498791,
+    "likes": 4887,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "hackernews",
+    "name": "Hacker News",
+    "logo": "",
+    "url": "https://news.ycombinator.com",
+    "description": "Y Combinator 技术社区。",
+    "category": "news",
+    "tags": [
+      "科技新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 790556,
+    "likes": 8911,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "gog",
+    "name": "GOG",
+    "logo": "",
+    "url": "https://www.gog.com",
+    "description": "无 DRM 游戏商店。",
+    "category": "games",
+    "tags": [
+      "游戏平台"
+    ],
+    "country": "波兰",
+    "language": "英文",
+    "views": 257327,
+    "likes": 6048,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "itchio",
+    "name": "itch.io",
+    "logo": "",
+    "url": "https://itch.io",
+    "description": "独立游戏平台。",
+    "category": "games",
+    "tags": [
+      "游戏平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 737048,
+    "likes": 1270,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "logo": "",
+    "url": "https://www.roblox.com",
+    "description": "用户创作游戏平台。",
+    "category": "games",
+    "tags": [
+      "游戏平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 25543,
+    "likes": 8102,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "logo": "",
+    "url": "https://www.minecraft.net",
+    "description": "沙盒游戏官网。",
+    "category": "games",
+    "tags": [
+      "游戏平台"
+    ],
+    "country": "瑞典",
+    "language": "英文",
+    "views": 95979,
+    "likes": 6703,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ign",
+    "name": "IGN",
+    "logo": "",
+    "url": "https://www.ign.com",
+    "description": "游戏媒体。",
+    "category": "games",
+    "tags": [
+      "游戏媒体"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 15257,
+    "likes": 4275,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "gamespot",
+    "name": "GameSpot",
+    "logo": "",
+    "url": "https://www.gamespot.com",
+    "description": "游戏新闻评测。",
+    "category": "games",
+    "tags": [
+      "游戏媒体"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 254012,
+    "likes": 3609,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "pcgamer",
+    "name": "PC Gamer",
+    "logo": "",
+    "url": "https://www.pcgamer.com",
+    "description": "PC 游戏媒体。",
+    "category": "games",
+    "tags": [
+      "游戏媒体"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 199514,
+    "likes": 815,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "logo": "",
+    "url": "https://discord.com",
+    "description": "游戏玩家社区通讯。",
+    "category": "social",
+    "tags": [
+      "即时通讯"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 50300,
+    "likes": 4255,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "huya",
+    "name": "虎牙直播",
+    "logo": "",
+    "url": "https://www.huya.com",
+    "description": "游戏直播平台。",
+    "category": "video",
+    "tags": [
+      "直播平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 498031,
+    "likes": 8156,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "douyu",
+    "name": "斗鱼",
+    "logo": "",
+    "url": "https://www.douyu.com",
+    "description": "游戏直播平台。",
+    "category": "video",
+    "tags": [
+      "直播平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 6177,
+    "likes": 3512,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "iqiyi",
+    "name": "爱奇艺",
+    "logo": "",
+    "url": "https://www.iqiyi.com",
+    "description": "长视频平台。",
+    "category": "video",
+    "tags": [
+      "长视频"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 101783,
+    "likes": 8361,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tencent_video",
+    "name": "腾讯视频",
+    "logo": "",
+    "url": "https://v.qq.com",
+    "description": "长视频平台。",
+    "category": "video",
+    "tags": [
+      "长视频"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 399067,
+    "likes": 4126,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "youku",
+    "name": "优酷",
+    "logo": "",
+    "url": "https://www.youku.com",
+    "description": "长视频平台。",
+    "category": "video",
+    "tags": [
+      "长视频"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 403284,
+    "likes": 6572,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "vimeo",
+    "name": "Vimeo",
+    "logo": "",
+    "url": "https://vimeo.com",
+    "description": "高清视频分享。",
+    "category": "video",
+    "tags": [
+      "长视频"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 289214,
+    "likes": 6100,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "dailymotion",
+    "name": "Dailymotion",
+    "logo": "",
+    "url": "https://www.dailymotion.com",
+    "description": "视频分享平台。",
+    "category": "video",
+    "tags": [
+      "长视频"
+    ],
+    "country": "法国",
+    "language": "英文",
+    "views": 561492,
+    "likes": 8533,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "kuaishou",
+    "name": "快手",
+    "logo": "",
+    "url": "https://www.kuaishou.com",
+    "description": "短视频平台。",
+    "category": "video",
+    "tags": [
+      "短视频"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 92592,
+    "likes": 705,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "douban",
+    "name": "豆瓣",
+    "logo": "",
+    "url": "https://www.douban.com",
+    "description": "文艺青年社区。",
+    "category": "social",
+    "tags": [
+      "社区论坛"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 461902,
+    "likes": 494,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tieba",
+    "name": "百度贴吧",
+    "logo": "",
+    "url": "https://tieba.baidu.com",
+    "description": "中文兴趣社区。",
+    "category": "social",
+    "tags": [
+      "社区论坛"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 254509,
+    "likes": 8773,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "logo": "",
+    "url": "https://www.instagram.com",
+    "description": "图片社交平台。",
+    "category": "social",
+    "tags": [
+      "社交平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 421452,
+    "likes": 7858,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "logo": "",
+    "url": "https://www.facebook.com",
+    "description": "全球最大社交网络。",
+    "category": "social",
+    "tags": [
+      "社交平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 526729,
+    "likes": 561,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "linkedin_cn",
+    "name": "LinkedIn 中国",
+    "logo": "",
+    "url": "https://www.linkedin.cn",
+    "description": "职业社交（中国版）。",
+    "category": "social",
+    "tags": [
+      "社交平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 130037,
+    "likes": 1122,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "logo": "",
+    "url": "https://www.whatsapp.com",
+    "description": "全球即时通讯。",
+    "category": "social",
+    "tags": [
+      "即时通讯"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 547197,
+    "likes": 2596,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "logo": "",
+    "url": "https://slack.com",
+    "description": "团队协作通讯。",
+    "category": "social",
+    "tags": [
+      "企业协作"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 541009,
+    "likes": 7665,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "teams",
+    "name": "Microsoft Teams",
+    "logo": "",
+    "url": "https://www.microsoft.com/microsoft-teams",
+    "description": "微软协作平台。",
+    "category": "social",
+    "tags": [
+      "企业协作"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 409162,
+    "likes": 2376,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "apple_music",
+    "name": "Apple Music",
+    "logo": "",
+    "url": "https://music.apple.com",
+    "description": "苹果音乐流媒体。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 545661,
+    "likes": 5496,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "youtube_music",
+    "name": "YouTube Music",
+    "logo": "",
+    "url": "https://music.youtube.com",
+    "description": "YouTube 音乐服务。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 645358,
+    "likes": 4877,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "qq_music",
+    "name": "QQ音乐",
+    "logo": "",
+    "url": "https://y.qq.com",
+    "description": "腾讯音乐平台。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 212800,
+    "likes": 1666,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "kugou",
+    "name": "酷狗音乐",
+    "logo": "",
+    "url": "https://www.kugou.com",
+    "description": "音乐播放器。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 40841,
+    "likes": 2268,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "kuwo",
+    "name": "酷我音乐",
+    "logo": "",
+    "url": "https://www.kuwo.cn",
+    "description": "音乐平台。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 5892,
+    "likes": 3841,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bandcamp",
+    "name": "Bandcamp",
+    "logo": "",
+    "url": "https://bandcamp.com",
+    "description": "独立音乐人平台。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 51252,
+    "likes": 3764,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "soundcloud",
+    "name": "SoundCloud",
+    "logo": "",
+    "url": "https://soundcloud.com",
+    "description": "音乐分享社区。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 211309,
+    "likes": 331,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "lastfm",
+    "name": "Last.fm",
+    "logo": "",
+    "url": "https://www.last.fm",
+    "description": "音乐推荐社区。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 467037,
+    "likes": 6018,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ximalaya",
+    "name": "喜马拉雅",
+    "logo": "",
+    "url": "https://www.ximalaya.com",
+    "description": "音频播客平台。",
+    "category": "music",
+    "tags": [
+      "播客"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 633658,
+    "likes": 1065,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "douban_music",
+    "name": "豆瓣音乐",
+    "logo": "",
+    "url": "https://music.douban.com",
+    "description": "音乐发现社区。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 149262,
+    "likes": 2058,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "genius",
+    "name": "Genius",
+    "logo": "",
+    "url": "https://genius.com",
+    "description": "歌词解析社区。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 607103,
+    "likes": 2177,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "logo": "",
+    "url": "https://www.twitch.tv",
+    "description": "游戏直播平台。",
+    "category": "games",
+    "tags": [
+      "直播平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 525099,
+    "likes": 3765,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "xiaohongshu",
+    "name": "小红书",
+    "logo": "",
+    "url": "https://www.xiaohongshu.com",
+    "description": "生活方式社区。",
+    "category": "social",
+    "tags": [
+      "社交平台"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 71696,
+    "likes": 5101,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom",
+    "logo": "",
+    "url": "https://zoom.us",
+    "description": "视频会议。",
+    "category": "social",
+    "tags": [
+      "视频会议"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 119632,
+    "likes": 8336,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "lizhi",
+    "name": "荔枝",
+    "logo": "",
+    "url": "https://www.lizhi.fm",
+    "description": "播客平台。",
+    "category": "music",
+    "tags": [
+      "播客"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 224785,
+    "likes": 796,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ultimate_guitar",
+    "name": "Ultimate Guitar",
+    "logo": "",
+    "url": "https://www.ultimate-guitar.com",
+    "description": "吉他谱社区。",
+    "category": "music",
+    "tags": [
+      "音乐平台"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 208810,
+    "likes": 1010,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tradingview",
+    "name": "TradingView",
+    "logo": "",
+    "url": "https://www.tradingview.com",
+    "description": "专业图表交易社区。",
+    "category": "finance",
+    "tags": [
+      "股票"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 218460,
+    "likes": 2601,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bloomberg",
+    "name": "彭博",
+    "logo": "",
+    "url": "https://www.bloomberg.com",
+    "description": "全球财经资讯。",
+    "category": "finance",
+    "tags": [
+      "财经新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 745988,
+    "likes": 5166,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "logo": "",
+    "url": "https://www.cnbc.com",
+    "description": "财经新闻电视网。",
+    "category": "finance",
+    "tags": [
+      "财经新闻"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 614826,
+    "likes": 971,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "xueqiu",
+    "name": "雪球",
+    "logo": "",
+    "url": "https://xueqiu.com",
+    "description": "投资者社区。",
+    "category": "finance",
+    "tags": [
+      "股票"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 351607,
+    "likes": 3015,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tonghuashun",
+    "name": "同花顺",
+    "logo": "",
+    "url": "https://www.10jqka.com.cn",
+    "description": "股票行情软件。",
+    "category": "finance",
+    "tags": [
+      "股票"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 598743,
+    "likes": 6055,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "futu",
+    "name": "富途牛牛",
+    "logo": "",
+    "url": "https://www.futunn.com",
+    "description": "港美股交易平台。",
+    "category": "finance",
+    "tags": [
+      "股票"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 362706,
+    "likes": 3346,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "coinmarketcap",
+    "name": "CoinMarketCap",
+    "logo": "",
+    "url": "https://coinmarketcap.com",
+    "description": "加密货币行情。",
+    "category": "finance",
+    "tags": [
+      "加密货币"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 146575,
+    "likes": 6532,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "binance",
+    "name": "币安",
+    "logo": "",
+    "url": "https://www.binance.com",
+    "description": "全球加密交易所。",
+    "category": "finance",
+    "tags": [
+      "加密货币"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 421582,
+    "likes": 7635,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal",
+    "logo": "",
+    "url": "https://www.paypal.com",
+    "description": "国际支付平台。",
+    "category": "finance",
+    "tags": [
+      "支付"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 613034,
+    "likes": 1658,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "logo": "",
+    "url": "https://stripe.com",
+    "description": "在线支付基础设施。",
+    "category": "finance",
+    "tags": [
+      "支付"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 693587,
+    "likes": 7830,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "alipay",
+    "name": "支付宝",
+    "logo": "",
+    "url": "https://www.alipay.com",
+    "description": "蚂蚁支付平台。",
+    "category": "finance",
+    "tags": [
+      "支付"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 286502,
+    "likes": 4730,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ebay",
+    "name": "eBay",
+    "logo": "",
+    "url": "https://www.ebay.com",
+    "description": "国际拍卖电商。",
+    "category": "shop",
+    "tags": [
+      "综合电商"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 107808,
+    "likes": 4468,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "aliexpress",
+    "name": "速卖通",
+    "logo": "",
+    "url": "https://www.aliexpress.com",
+    "description": "阿里跨境电商。",
+    "category": "shop",
+    "tags": [
+      "跨境电商"
+    ],
+    "country": "中国",
+    "language": "英文",
+    "views": 207097,
+    "likes": 5812,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "shein",
+    "name": "SHEIN",
+    "logo": "",
+    "url": "https://www.shein.com",
+    "description": "快时尚跨境电商。",
+    "category": "shop",
+    "tags": [
+      "跨境电商"
+    ],
+    "country": "中国",
+    "language": "英文",
+    "views": 191059,
+    "likes": 3958,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "temu",
+    "name": "Temu",
+    "logo": "",
+    "url": "https://www.temu.com",
+    "description": "拼多多海外版。",
+    "category": "shop",
+    "tags": [
+      "跨境电商"
+    ],
+    "country": "中国",
+    "language": "英文",
+    "views": 754903,
+    "likes": 2020,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "pinduoduo",
+    "name": "拼多多",
+    "logo": "",
+    "url": "https://www.pinduoduo.com",
+    "description": "社交电商平台。",
+    "category": "shop",
+    "tags": [
+      "综合电商"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 147236,
+    "likes": 7375,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "sunin",
+    "name": "苏宁易购",
+    "logo": "",
+    "url": "https://www.suning.com",
+    "description": "综合电商。",
+    "category": "shop",
+    "tags": [
+      "综合电商"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 685182,
+    "likes": 5925,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "vipshop",
+    "name": "唯品会",
+    "logo": "",
+    "url": "https://www.vip.com",
+    "description": "特卖电商。",
+    "category": "shop",
+    "tags": [
+      "综合电商"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 593261,
+    "likes": 4905,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "smzdm",
+    "name": "什么值得买",
+    "logo": "",
+    "url": "https://www.smzdm.com",
+    "description": "消费优惠社区。",
+    "category": "shop",
+    "tags": [
+      "优惠信息"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 568933,
+    "likes": 134,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "etao",
+    "name": "一淘",
+    "logo": "",
+    "url": "https://www.etao.com",
+    "description": "比价返利平台。",
+    "category": "shop",
+    "tags": [
+      "优惠信息"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 626474,
+    "likes": 1660,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "sf_express",
+    "name": "顺丰",
+    "logo": "",
+    "url": "https://www.sf-express.com",
+    "description": "国内快递龙头。",
+    "category": "logistics",
+    "tags": [
+      "快递查询"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 221154,
+    "likes": 3295,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "jd_logistics",
+    "name": "京东物流",
+    "logo": "",
+    "url": "https://www.jdl.com",
+    "description": "京东旗下物流。",
+    "category": "logistics",
+    "tags": [
+      "快递查询"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 333375,
+    "likes": 1412,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ups",
+    "name": "UPS",
+    "logo": "",
+    "url": "https://www.ups.com",
+    "description": "国际快递。",
+    "category": "logistics",
+    "tags": [
+      "国际快递"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 259458,
+    "likes": 7840,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "kuaidi100",
+    "name": "快递100",
+    "logo": "",
+    "url": "https://www.kuaidi100.com",
+    "description": "快递查询聚合。",
+    "category": "logistics",
+    "tags": [
+      "快递查询"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 331102,
+    "likes": 2094,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "cosco",
+    "name": "中远海运",
+    "logo": "",
+    "url": "https://www.cosco-shipping.com",
+    "description": "中国远洋海运。",
+    "category": "logistics",
+    "tags": [
+      "海运"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 535402,
+    "likes": 2092,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "flightaware",
+    "name": "FlightAware",
+    "logo": "",
+    "url": "https://www.flightaware.com",
+    "description": "航班追踪。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 200034,
+    "likes": 5017,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tripadvisor",
+    "name": "TripAdvisor",
+    "logo": "",
+    "url": "https://www.tripadvisor.com",
+    "description": "旅行点评。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 190662,
+    "likes": 2099,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "booking",
+    "name": "Booking.com",
+    "logo": "",
+    "url": "https://www.booking.com",
+    "description": "酒店预订。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "荷兰",
+    "language": "英文",
+    "views": 334150,
+    "likes": 4060,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "logo": "",
+    "url": "https://www.airbnb.com",
+    "description": "民宿短租。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 176551,
+    "likes": 8388,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "qunar",
+    "name": "去哪儿",
+    "logo": "",
+    "url": "https://www.qunar.com",
+    "description": "旅行预订。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 184794,
+    "likes": 4417,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tongcheng",
+    "name": "同程旅行",
+    "logo": "",
+    "url": "https://www.ly.com",
+    "description": "旅行预订。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 493271,
+    "likes": 8469,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "fliggy",
+    "name": "飞猪",
+    "logo": "",
+    "url": "https://www.fliggy.com",
+    "description": "阿里旅行平台。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 660327,
+    "likes": 7452,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "didi",
+    "name": "滴滴出行",
+    "logo": "",
+    "url": "https://www.didiglobal.com",
+    "description": "网约车平台。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 693067,
+    "likes": 6427,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "liepin",
+    "name": "猎聘",
+    "logo": "",
+    "url": "https://www.liepin.com",
+    "description": "中高端人才招聘。",
+    "category": "jobs",
+    "tags": [
+      "招聘网站"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 28670,
+    "likes": 6718,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "51job",
+    "name": "前程无忧",
+    "logo": "",
+    "url": "https://www.51job.com",
+    "description": "综合招聘。",
+    "category": "jobs",
+    "tags": [
+      "招聘网站"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 799060,
+    "likes": 2572,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "indeed",
+    "name": "Indeed",
+    "logo": "",
+    "url": "https://www.indeed.com",
+    "description": "全球招聘搜索。",
+    "category": "jobs",
+    "tags": [
+      "招聘网站"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 661197,
+    "likes": 3402,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "glassdoor",
+    "name": "Glassdoor",
+    "logo": "",
+    "url": "https://www.glassdoor.com",
+    "description": "公司点评招聘。",
+    "category": "jobs",
+    "tags": [
+      "招聘网站"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 364087,
+    "likes": 7655,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "fedex",
+    "name": "FedEx",
+    "logo": "",
+    "url": "https://www.fedex.com",
+    "description": "国际快递。",
+    "category": "logistics",
+    "tags": [
+      "国际快递"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 399926,
+    "likes": 3688,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "logo": "",
+    "url": "https://www.uber.com",
+    "description": "全球网约车平台。",
+    "category": "transport",
+    "tags": [
+      "航空公司"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 105353,
+    "likes": 4679,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "porttechnology",
+    "name": "Port Technology",
+    "logo": "",
+    "url": "https://www.porttechnology.org",
+    "description": "港口技术资讯。",
+    "category": "ports",
+    "tags": [
+      "港口代码"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 340387,
+    "likes": 1484,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "geonames_postal",
+    "name": "GeoNames 邮编",
+    "logo": "",
+    "url": "https://www.geonames.org/postalcode-search.html",
+    "description": "全球邮编查询。",
+    "category": "address",
+    "tags": [
+      "邮编规则"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 150493,
+    "likes": 1020,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "addressdoctor",
+    "name": "AddressDoctor",
+    "logo": "",
+    "url": "https://www.addressdoctor.com",
+    "description": "国际地址格式验证。",
+    "category": "address",
+    "tags": [
+      "地址格式"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 788005,
+    "likes": 7590,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "countrycode",
+    "name": "CountryCode.org",
+    "logo": "",
+    "url": "https://countrycode.org",
+    "description": "国际电话区号查询。",
+    "category": "address",
+    "tags": [
+      "电话格式"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 143998,
+    "likes": 7885,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "nationsonline",
+    "name": "Nations Online",
+    "logo": "",
+    "url": "https://www.nationsonline.org",
+    "description": "国家资料库。",
+    "category": "countries",
+    "tags": [
+      "国家资料"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 641372,
+    "likes": 3049,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "worldometers",
+    "name": "Worldometer",
+    "logo": "",
+    "url": "https://www.worldometers.info",
+    "description": "世界实时统计数据。",
+    "category": "countries",
+    "tags": [
+      "国家资料"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 546047,
+    "likes": 8132,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "indexmundi",
+    "name": "IndexMundi",
+    "logo": "",
+    "url": "https://www.indexmundi.com",
+    "description": "国家统计数据库。",
+    "category": "countries",
+    "tags": [
+      "国家资料"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 493909,
+    "likes": 5460,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "citypopulation",
+    "name": "City Population",
+    "logo": "",
+    "url": "https://www.citypopulation.de",
+    "description": "城市人口数据。",
+    "category": "cities",
+    "tags": [
+      "城市资料"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 437192,
+    "likes": 3906,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "world_airport_codes",
+    "name": "World Airport Codes",
+    "logo": "",
+    "url": "https://www.world-airport-codes.com",
+    "description": "机场代码查询。",
+    "category": "airports",
+    "tags": [
+      "IATA代码"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 746103,
+    "likes": 574,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "flightstats",
+    "name": "FlightStats",
+    "logo": "",
+    "url": "https://www.flightstats.com",
+    "description": "航班机场数据。",
+    "category": "airports",
+    "tags": [
+      "机场信息"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 515555,
+    "likes": 7614,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "apple_support",
+    "name": "Apple 支持",
+    "logo": "",
+    "url": "https://support.apple.com",
+    "description": "苹果官方支持。",
+    "category": "apple",
+    "tags": [
+      "iOS",
+      "macOS"
+    ],
+    "country": "美国",
+    "language": "中文",
+    "views": 264283,
+    "likes": 4852,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "apple_developer",
+    "name": "Apple Developer",
+    "logo": "",
+    "url": "https://developer.apple.com",
+    "description": "苹果开发者中心。",
+    "category": "apple",
+    "tags": [
+      "iOS"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 514126,
+    "likes": 5591,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "macworld",
+    "name": "Macworld",
+    "logo": "",
+    "url": "https://www.macworld.com",
+    "description": "苹果生态媒体。",
+    "category": "apple",
+    "tags": [
+      "macOS"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 354463,
+    "likes": 4549,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "9to5mac",
+    "name": "9to5Mac",
+    "logo": "",
+    "url": "https://9to5mac.com",
+    "description": "苹果新闻社区。",
+    "category": "apple",
+    "tags": [
+      "iOS"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 522276,
+    "likes": 3012,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "webmd",
+    "name": "WebMD",
+    "logo": "",
+    "url": "https://www.webmd.com",
+    "description": "健康资讯平台。",
+    "category": "health",
+    "tags": [
+      "医学资源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 736275,
+    "likes": 2840,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "nih",
+    "name": "美国国立卫生研究院",
+    "logo": "",
+    "url": "https://www.nih.gov",
+    "description": "NIH 官方。",
+    "category": "health",
+    "tags": [
+      "医疗机构"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 330774,
+    "likes": 4376,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "who",
+    "name": "世界卫生组织",
+    "logo": "",
+    "url": "https://www.who.int",
+    "description": "WHO 官方。",
+    "category": "health",
+    "tags": [
+      "医疗机构"
+    ],
+    "country": "瑞士",
+    "language": "多语言",
+    "views": 212479,
+    "likes": 8084,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "nejm",
+    "name": "新英格兰医学杂志",
+    "logo": "",
+    "url": "https://www.nejm.org",
+    "description": "顶级医学期刊。",
+    "category": "health",
+    "tags": [
+      "医学资源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 756767,
+    "likes": 7824,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "haodf",
+    "name": "好大夫在线",
+    "logo": "",
+    "url": "https://www.haodf.com",
+    "description": "在线问诊平台。",
+    "category": "health",
+    "tags": [
+      "医疗机构"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 345746,
+    "likes": 5961,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "usa_gov",
+    "name": "USA.gov",
+    "logo": "",
+    "url": "https://www.usa.gov",
+    "description": "美国政府官网。",
+    "category": "gov",
+    "tags": [
+      "美国政府"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 44394,
+    "likes": 7142,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "europa",
+    "name": "欧盟官网",
+    "logo": "",
+    "url": "https://european-union.europa.eu",
+    "description": "欧盟官方。",
+    "category": "gov",
+    "tags": [
+      "欧盟机构"
+    ],
+    "country": "比利时",
+    "language": "英文",
+    "views": 112735,
+    "likes": 3141,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "gov_uk",
+    "name": "英国政府",
+    "logo": "",
+    "url": "https://www.gov.uk",
+    "description": "英国政府官网。",
+    "category": "gov",
+    "tags": [
+      "欧盟机构"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 695989,
+    "likes": 285,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "crunchbase",
+    "name": "Crunchbase",
+    "logo": "",
+    "url": "https://www.crunchbase.com",
+    "description": "创投企业数据库。",
+    "category": "companies",
+    "tags": [
+      "科技企业"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 514126,
+    "likes": 5548,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "qcc",
+    "name": "企查查",
+    "logo": "",
+    "url": "https://www.qcc.com",
+    "description": "企业信息查询。",
+    "category": "companies",
+    "tags": [
+      "科技企业"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 429104,
+    "likes": 1861,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "forbes",
+    "name": "福布斯",
+    "logo": "",
+    "url": "https://www.forbes.com",
+    "description": "商业媒体榜单。",
+    "category": "companies",
+    "tags": [
+      "世界500强"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 559966,
+    "likes": 4931,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "godaddy",
+    "name": "GoDaddy",
+    "logo": "",
+    "url": "https://www.godaddy.com",
+    "description": "域名主机服务商。",
+    "category": "webmaster",
+    "tags": [
+      "域名注册"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 423704,
+    "likes": 3290,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "cloudflare_reg",
+    "name": "Cloudflare Registrar",
+    "logo": "",
+    "url": "https://www.cloudflare.com/products/registrar",
+    "description": "成本价域名注册。",
+    "category": "webmaster",
+    "tags": [
+      "域名注册"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 27736,
+    "likes": 952,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "west263",
+    "name": "西部数码",
+    "logo": "",
+    "url": "https://www.west.cn",
+    "description": "国内域名主机商。",
+    "category": "webmaster",
+    "tags": [
+      "域名注册"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 23034,
+    "likes": 1247,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "dnspod",
+    "name": "DNSPod",
+    "logo": "",
+    "url": "https://www.dnspod.cn",
+    "description": "腾讯 DNS 解析。",
+    "category": "webmaster",
+    "tags": [
+      "域名注册"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 528857,
+    "likes": 5536,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tencent_cloud",
+    "name": "腾讯云",
+    "logo": "",
+    "url": "https://cloud.tencent.com",
+    "description": "腾讯云服务。",
+    "category": "webmaster",
+    "tags": [
+      "主机与服务器"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 676180,
+    "likes": 8596,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "huawei_cloud",
+    "name": "华为云",
+    "logo": "",
+    "url": "https://www.huaweicloud.com",
+    "description": "华为云服务。",
+    "category": "webmaster",
+    "tags": [
+      "主机与服务器"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 776465,
+    "likes": 4285,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bandwagonhost",
+    "name": "搬瓦工",
+    "logo": "",
+    "url": "https://bandwagonhost.com",
+    "description": "VPS 服务商。",
+    "category": "webmaster",
+    "tags": [
+      "主机与服务器"
+    ],
+    "country": "美国",
+    "language": "中文",
+    "views": 205108,
+    "likes": 5773,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "netlify",
+    "name": "Netlify",
+    "logo": "",
+    "url": "https://www.netlify.com",
+    "description": "静态网站托管。",
+    "category": "webmaster",
+    "tags": [
+      "主机与服务器"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 550454,
+    "likes": 3856,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "moz",
+    "name": "Moz",
+    "logo": "",
+    "url": "https://moz.com",
+    "description": "SEO 工具社区。",
+    "category": "webmaster",
+    "tags": [
+      "SEO工具"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 517174,
+    "likes": 6582,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "baidu_tongji",
+    "name": "百度统计",
+    "logo": "",
+    "url": "https://tongji.baidu.com",
+    "description": "网站流量统计。",
+    "category": "webmaster",
+    "tags": [
+      "统计分析"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 730185,
+    "likes": 214,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "cnzz",
+    "name": "友盟+",
+    "logo": "",
+    "url": "https://www.umeng.com",
+    "description": "移动统计分析。",
+    "category": "webmaster",
+    "tags": [
+      "统计分析"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 21530,
+    "likes": 671,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "adsense",
+    "name": "Google AdSense",
+    "logo": "",
+    "url": "https://www.google.com/adsense",
+    "description": "谷歌广告联盟。",
+    "category": "webmaster",
+    "tags": [
+      "广告联盟"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 300927,
+    "likes": 7491,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "alimama",
+    "name": "阿里妈妈",
+    "logo": "",
+    "url": "https://www.alimama.com",
+    "description": "阿里广告联盟。",
+    "category": "webmaster",
+    "tags": [
+      "广告联盟"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 549686,
+    "likes": 3228,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "themeforest",
+    "name": "ThemeForest",
+    "logo": "",
+    "url": "https://themeforest.net",
+    "description": "网站模板市场。",
+    "category": "webmaster",
+    "tags": [
+      "建站模板"
+    ],
+    "country": "澳大利亚",
+    "language": "英文",
+    "views": 51118,
+    "likes": 2075,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "w3schools_templates",
+    "name": "W3Schools 模板",
+    "logo": "",
+    "url": "https://www.w3schools.com/w3css/w3css_templates.asp",
+    "description": "免费网页模板。",
+    "category": "webmaster",
+    "tags": [
+      "建站模板"
+    ],
+    "country": "挪威",
+    "language": "英文",
+    "views": 784239,
+    "likes": 7324,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "drupal",
+    "name": "Drupal",
+    "logo": "",
+    "url": "https://www.drupal.org",
+    "description": "开源 CMS。",
+    "category": "webmaster",
+    "tags": [
+      "CMS系统",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 72866,
+    "likes": 5132,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "joomla",
+    "name": "Joomla",
+    "logo": "",
+    "url": "https://www.joomla.org",
+    "description": "开源 CMS。",
+    "category": "webmaster",
+    "tags": [
+      "CMS系统",
+      "开源"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 41003,
+    "likes": 8310,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "typecho",
+    "name": "Typecho",
+    "logo": "",
+    "url": "https://typecho.org",
+    "description": "轻量博客 CMS。",
+    "category": "webmaster",
+    "tags": [
+      "CMS系统",
+      "开源"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 530334,
+    "likes": 7212,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "zerossl",
+    "name": "ZeroSSL",
+    "logo": "",
+    "url": "https://zerossl.com",
+    "description": "免费 SSL 证书。",
+    "category": "webmaster",
+    "tags": [
+      "SSL证书"
+    ],
+    "country": "瑞士",
+    "language": "英文",
+    "views": 61190,
+    "likes": 3856,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "worldportsource",
+    "name": "World Port Source",
+    "logo": "",
+    "url": "https://www.worldportsource.com",
+    "description": "世界港口名录。",
+    "category": "ports",
+    "tags": [
+      "港口代码"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 398781,
+    "likes": 3560,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "searates",
+    "name": "SeaRates",
+    "logo": "",
+    "url": "https://www.searates.com",
+    "description": "海运费率与港口查询。",
+    "category": "ports",
+    "tags": [
+      "航线资料"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 771854,
+    "likes": 2823,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "semrush",
+    "name": "Semrush",
+    "logo": "",
+    "url": "https://www.semrush.com",
+    "description": "SEO 营销工具。",
+    "category": "webmaster",
+    "tags": [
+      "SEO工具"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 702221,
+    "likes": 6700,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ecosia",
+    "name": "Ecosia",
+    "logo": "",
+    "url": "https://www.ecosia.org",
+    "description": "种树搜索引擎。",
+    "category": "search",
+    "tags": [
+      "综合搜索"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 760879,
+    "likes": 5440,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "brave_search",
+    "name": "Brave Search",
+    "logo": "",
+    "url": "https://search.brave.com",
+    "description": "隐私搜索引擎。",
+    "category": "search",
+    "tags": [
+      "综合搜索",
+      "隐私"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 127875,
+    "likes": 6344,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "naver",
+    "name": "Naver",
+    "logo": "",
+    "url": "https://www.naver.com",
+    "description": "韩国最大搜索引擎。",
+    "category": "search",
+    "tags": [
+      "综合搜索"
+    ],
+    "country": "韩国",
+    "language": "韩文",
+    "views": 314500,
+    "likes": 5947,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "sogou",
+    "name": "搜狗搜索",
+    "logo": "",
+    "url": "https://www.sogou.com",
+    "description": "中文搜索引擎。",
+    "category": "search",
+    "tags": [
+      "综合搜索"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 424137,
+    "likes": 3051,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "360search",
+    "name": "360搜索",
+    "logo": "",
+    "url": "https://www.so.com",
+    "description": "奇虎搜索引擎。",
+    "category": "search",
+    "tags": [
+      "综合搜索"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 654000,
+    "likes": 8437,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "bing_images",
+    "name": "Bing 图片",
+    "logo": "",
+    "url": "https://www.bing.com/images",
+    "description": "Bing 图片搜索。",
+    "category": "search",
+    "tags": [
+      "图片搜索"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 361362,
+    "likes": 3648,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "unsplash_search",
+    "name": "Unsplash 搜索",
+    "logo": "",
+    "url": "https://unsplash.com",
+    "description": "免费图片搜索。",
+    "category": "search",
+    "tags": [
+      "图片搜索"
+    ],
+    "country": "加拿大",
+    "language": "英文",
+    "views": 177260,
+    "likes": 3677,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "baidu_map",
+    "name": "百度地图",
+    "logo": "",
+    "url": "https://map.baidu.com",
+    "description": "百度地图服务。",
+    "category": "maps",
+    "tags": [
+      "地图服务"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 722844,
+    "likes": 5505,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "here",
+    "name": "HERE WeGo",
+    "logo": "",
+    "url": "https://www.here.com",
+    "description": "HERE 地图。",
+    "category": "maps",
+    "tags": [
+      "地图服务"
+    ],
+    "country": "荷兰",
+    "language": "英文",
+    "views": 177919,
+    "likes": 104,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "wikimapia",
+    "name": "Wikimapia",
+    "logo": "",
+    "url": "https://wikimapia.org",
+    "description": "维基地图。",
+    "category": "maps",
+    "tags": [
+      "地图服务"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 15175,
+    "likes": 4935,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "protonmail",
+    "name": "Proton Mail",
+    "logo": "",
+    "url": "https://proton.me/mail",
+    "description": "加密邮箱。",
+    "category": "email",
+    "tags": [
+      "免费邮箱",
+      "隐私"
+    ],
+    "country": "瑞士",
+    "language": "英文",
+    "views": 61754,
+    "likes": 7181,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tutanota",
+    "name": "Tuta",
+    "logo": "",
+    "url": "https://tuta.com",
+    "description": "加密邮箱。",
+    "category": "email",
+    "tags": [
+      "免费邮箱",
+      "隐私"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 40741,
+    "likes": 2133,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "163mail",
+    "name": "163邮箱",
+    "logo": "",
+    "url": "https://mail.163.com",
+    "description": "网易邮箱。",
+    "category": "email",
+    "tags": [
+      "免费邮箱"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 441952,
+    "likes": 4760,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "126mail",
+    "name": "126邮箱",
+    "logo": "",
+    "url": "https://mail.126.com",
+    "description": "网易邮箱。",
+    "category": "email",
+    "tags": [
+      "免费邮箱"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 573767,
+    "likes": 8894,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "sina_mail",
+    "name": "新浪邮箱",
+    "logo": "",
+    "url": "https://mail.sina.com.cn",
+    "description": "新浪邮箱。",
+    "category": "email",
+    "tags": [
+      "免费邮箱"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 531309,
+    "likes": 7027,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "onedrive",
+    "name": "OneDrive",
+    "logo": "",
+    "url": "https://onedrive.live.com",
+    "description": "微软云存储。",
+    "category": "cloud",
+    "tags": [
+      "云存储"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 498232,
+    "likes": 5293,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "icloud",
+    "name": "iCloud",
+    "logo": "",
+    "url": "https://www.icloud.com",
+    "description": "苹果云服务。",
+    "category": "cloud",
+    "tags": [
+      "云存储"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 792486,
+    "likes": 5401,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "mega",
+    "name": "MEGA",
+    "logo": "",
+    "url": "https://mega.io",
+    "description": "加密云存储。",
+    "category": "cloud",
+    "tags": [
+      "云存储"
+    ],
+    "country": "新西兰",
+    "language": "英文",
+    "views": 464184,
+    "likes": 3882,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "alipan",
+    "name": "阿里云盘",
+    "logo": "",
+    "url": "https://www.alipan.com",
+    "description": "阿里个人云盘。",
+    "category": "cloud",
+    "tags": [
+      "网盘"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 40482,
+    "likes": 7522,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ctfile",
+    "name": "城通网盘",
+    "logo": "",
+    "url": "https://www.ctfile.com",
+    "description": "网盘服务。",
+    "category": "cloud",
+    "tags": [
+      "网盘"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 781443,
+    "likes": 2226,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "weiyun",
+    "name": "微云",
+    "logo": "",
+    "url": "https://www.weiyun.com",
+    "description": "腾讯云盘。",
+    "category": "cloud",
+    "tags": [
+      "网盘"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 35642,
+    "likes": 4447,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "chrome_webstore",
+    "name": "Chrome 应用店",
+    "logo": "",
+    "url": "https://chromewebstore.google.com",
+    "description": "Chrome 扩展商店。",
+    "category": "download",
+    "tags": [
+      "软件"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 291502,
+    "likes": 5388,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "filehorse",
+    "name": "FileHorse",
+    "logo": "",
+    "url": "https://www.filehorse.com",
+    "description": "软件下载。",
+    "category": "download",
+    "tags": [
+      "软件"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 511830,
+    "likes": 5371,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "majorgeeks",
+    "name": "MajorGeeks",
+    "logo": "",
+    "url": "https://www.majorgeeks.com",
+    "description": "软件下载。",
+    "category": "download",
+    "tags": [
+      "软件"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 527231,
+    "likes": 3482,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "fosshub",
+    "name": "FossHub",
+    "logo": "",
+    "url": "https://www.fosshub.com",
+    "description": "开源软件下载。",
+    "category": "download",
+    "tags": [
+      "软件",
+      "开源"
+    ],
+    "country": "罗马尼亚",
+    "language": "英文",
+    "views": 115389,
+    "likes": 8571,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ninite",
+    "name": "Ninite",
+    "logo": "",
+    "url": "https://ninite.com",
+    "description": "批量装机工具。",
+    "category": "download",
+    "tags": [
+      "软件"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 49593,
+    "likes": 1331,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "rufus",
+    "name": "Rufus",
+    "logo": "",
+    "url": "https://rufus.ie",
+    "description": "启动盘制作。",
+    "category": "download",
+    "tags": [
+      "系统镜像"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 332115,
+    "likes": 7987,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "ventoy",
+    "name": "Ventoy",
+    "logo": "",
+    "url": "https://www.ventoy.net",
+    "description": "多启动U盘工具。",
+    "category": "download",
+    "tags": [
+      "系统镜像"
+    ],
+    "country": "中国",
+    "language": "英文",
+    "views": 570213,
+    "likes": 2261,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "archlinux",
+    "name": "Arch Linux",
+    "logo": "",
+    "url": "https://archlinux.org",
+    "description": "滚动发行版。",
+    "category": "download",
+    "tags": [
+      "系统镜像"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 622665,
+    "likes": 8568,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "fedora",
+    "name": "Fedora",
+    "logo": "",
+    "url": "https://fedoraproject.org",
+    "description": "红帽社区版。",
+    "category": "download",
+    "tags": [
+      "系统镜像"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 492675,
+    "likes": 3331,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "manjaro",
+    "name": "Manjaro",
+    "logo": "",
+    "url": "https://manjaro.org",
+    "description": "易用 Arch 衍生版。",
+    "category": "download",
+    "tags": [
+      "系统镜像"
+    ],
+    "country": "德国",
+    "language": "英文",
+    "views": 193189,
+    "likes": 4271,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "deepin",
+    "name": "深度 deepin",
+    "logo": "",
+    "url": "https://www.deepin.org",
+    "description": "国产 Linux 发行版。",
+    "category": "download",
+    "tags": [
+      "系统镜像"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 41659,
+    "likes": 3536,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "kali",
+    "name": "Kali Linux",
+    "logo": "",
+    "url": "https://www.kali.org",
+    "description": "安全测试发行版。",
+    "category": "download",
+    "tags": [
+      "系统镜像"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 643832,
+    "likes": 7129,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "brave",
+    "name": "Brave",
+    "logo": "",
+    "url": "https://brave.com",
+    "description": "隐私浏览器。",
+    "category": "browser",
+    "tags": [
+      "隐私浏览器"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 303247,
+    "likes": 4297,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "vivaldi",
+    "name": "Vivaldi",
+    "logo": "",
+    "url": "https://vivaldi.com",
+    "description": "高度定制浏览器。",
+    "category": "browser",
+    "tags": [
+      "Chromium"
+    ],
+    "country": "挪威",
+    "language": "英文",
+    "views": 104259,
+    "likes": 4804,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "arc",
+    "name": "Arc",
+    "logo": "",
+    "url": "https://arc.net",
+    "description": "新锐浏览器。",
+    "category": "browser",
+    "tags": [
+      "Chromium"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 579341,
+    "likes": 7978,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tor",
+    "name": "Tor Browser",
+    "logo": "",
+    "url": "https://www.torproject.org",
+    "description": "匿名浏览器。",
+    "category": "browser",
+    "tags": [
+      "隐私浏览器"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 592646,
+    "likes": 2757,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "opera",
+    "name": "Opera",
+    "logo": "",
+    "url": "https://www.opera.com",
+    "description": "老牌浏览器。",
+    "category": "browser",
+    "tags": [
+      "Chromium"
+    ],
+    "country": "挪威",
+    "language": "英文",
+    "views": 221150,
+    "likes": 1575,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "samsung_internet",
+    "name": "三星浏览器",
+    "logo": "",
+    "url": "https://www.samsung.com/us/apps/samsung-internet",
+    "description": "三星浏览器。",
+    "category": "browser",
+    "tags": [
+      "Chromium"
+    ],
+    "country": "韩国",
+    "language": "英文",
+    "views": 457614,
+    "likes": 3653,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "via",
+    "name": "Via 浏览器",
+    "logo": "",
+    "url": "https://viayoo.com",
+    "description": "轻量安卓浏览器。",
+    "category": "browser",
+    "tags": [
+      "Chromium"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 17354,
+    "likes": 3365,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "coolapk",
+    "name": "酷安",
+    "logo": "",
+    "url": "https://www.coolapk.com",
+    "description": "安卓应用社区。",
+    "category": "android",
+    "tags": [
+      "APK"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 675501,
+    "likes": 3068,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "apkpure",
+    "name": "APKPure",
+    "logo": "",
+    "url": "https://apkpure.com",
+    "description": "APK 下载站。",
+    "category": "android",
+    "tags": [
+      "APK"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 680973,
+    "likes": 2547,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "uptodown",
+    "name": "Uptodown",
+    "logo": "",
+    "url": "https://www.uptodown.com",
+    "description": "应用下载站。",
+    "category": "android",
+    "tags": [
+      "APK"
+    ],
+    "country": "西班牙",
+    "language": "英文",
+    "views": 752655,
+    "likes": 6729,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "xda",
+    "name": "XDA Developers",
+    "logo": "",
+    "url": "https://www.xda-developers.com",
+    "description": "安卓开发者社区。",
+    "category": "android",
+    "tags": [
+      "安卓开发"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 201217,
+    "likes": 267,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "android_dev",
+    "name": "Android Developers",
+    "logo": "",
+    "url": "https://developer.android.com",
+    "description": "安卓官方开发文档。",
+    "category": "android",
+    "tags": [
+      "安卓开发"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 315708,
+    "likes": 3058,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "lineageos",
+    "name": "LineageOS",
+    "logo": "",
+    "url": "https://lineageos.org",
+    "description": "开源安卓 ROM。",
+    "category": "android",
+    "tags": [
+      "ROM",
+      "开源"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 7380,
+    "likes": 5534,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "twrp",
+    "name": "TWRP",
+    "logo": "",
+    "url": "https://twrp.me",
+    "description": "第三方 Recovery。",
+    "category": "android",
+    "tags": [
+      "ROM"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 526699,
+    "likes": 5542,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "scrcpy",
+    "name": "scrcpy",
+    "logo": "",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "安卓投屏工具。",
+    "category": "android",
+    "tags": [
+      "安卓开发",
+      "开源"
+    ],
+    "country": "法国",
+    "language": "英文",
+    "views": 343291,
+    "likes": 5827,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "adb",
+    "name": "ADB 文档",
+    "logo": "",
+    "url": "https://developer.android.com/tools/adb",
+    "description": "安卓调试桥。",
+    "category": "android",
+    "tags": [
+      "安卓开发"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 751890,
+    "likes": 6383,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora Store",
+    "logo": "",
+    "url": "https://auroraoss.com",
+    "description": "开源 Play 商店客户端。",
+    "category": "android",
+    "tags": [
+      "APK",
+      "开源"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 312519,
+    "likes": 797,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "gsmarena",
+    "name": "GSMArena",
+    "logo": "",
+    "url": "https://www.gsmarena.com",
+    "description": "手机参数库。",
+    "category": "android",
+    "tags": [
+      "APK"
+    ],
+    "country": "英国",
+    "language": "英文",
+    "views": 129600,
+    "likes": 1147,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "yandex",
+    "name": "Yandex",
+    "logo": "",
+    "url": "https://yandex.com",
+    "description": "俄罗斯搜索引擎。",
+    "category": "search",
+    "tags": [
+      "综合搜索"
+    ],
+    "country": "俄罗斯",
+    "language": "英文",
+    "views": 755222,
+    "likes": 975,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "tencent_map",
+    "name": "腾讯地图",
+    "logo": "",
+    "url": "https://map.qq.com",
+    "description": "腾讯地图服务。",
+    "category": "maps",
+    "tags": [
+      "地图服务"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 449242,
+    "likes": 8558,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "quark_pan",
+    "name": "夸克网盘",
+    "logo": "",
+    "url": "https://pan.quark.cn",
+    "description": "夸克网盘。",
+    "category": "cloud",
+    "tags": [
+      "网盘"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 567119,
+    "likes": 4963,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "lanzou",
+    "name": "蓝奏云",
+    "logo": "",
+    "url": "https://www.lanzou.com",
+    "description": "简洁网盘。",
+    "category": "cloud",
+    "tags": [
+      "网盘"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 213275,
+    "likes": 64,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "jianzuo",
+    "name": "坚果云",
+    "logo": "",
+    "url": "https://www.jianguoyun.com",
+    "description": "同步网盘。",
+    "category": "cloud",
+    "tags": [
+      "云存储"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 342962,
+    "likes": 2567,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "softonic",
+    "name": "Softonic",
+    "logo": "",
+    "url": "https://www.softonic.com",
+    "description": "软件下载站。",
+    "category": "download",
+    "tags": [
+      "软件"
+    ],
+    "country": "西班牙",
+    "language": "英文",
+    "views": 273501,
+    "likes": 4740,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "claude_code",
+    "name": "Claude Code",
+    "logo": "",
+    "url": "https://www.anthropic.com/claude-code",
+    "description": "Anthropic 官方 AI 编程工具。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 507161,
+    "likes": 790,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "windsurf",
+    "name": "Windsurf",
+    "logo": "",
+    "url": "https://windsurf.com",
+    "description": "AI 原生 IDE。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 107727,
+    "likes": 7273,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "notebooklm",
+    "name": "NotebookLM",
+    "logo": "",
+    "url": "https://notebooklm.google.com",
+    "description": "Google AI 笔记助手。",
+    "category": "ai",
+    "tags": [
+      "AI聊天"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 695289,
+    "likes": 3242,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "kimi_k2",
+    "name": "Kimi K2",
+    "logo": "",
+    "url": "https://www.moonshot.cn",
+    "description": "月之暗面开源大模型。",
+    "category": "ai",
+    "tags": [
+      "大模型",
+      "开源"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 585512,
+    "likes": 6907,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "gitlab_docs",
+    "name": "GitLab Docs",
+    "logo": "",
+    "url": "https://docs.gitlab.com",
+    "description": "GitLab 官方文档。",
+    "category": "dev",
+    "tags": [
+      "技术文档"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 438996,
+    "likes": 1589,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "docker_docs",
+    "name": "Docker Docs",
+    "logo": "",
+    "url": "https://docs.docker.com",
+    "description": "Docker 官方文档。",
+    "category": "dev",
+    "tags": [
+      "技术文档"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 338361,
+    "likes": 4549,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "k8s_docs",
+    "name": "Kubernetes 文档",
+    "logo": "",
+    "url": "https://kubernetes.io/docs",
+    "description": "K8s 官方文档。",
+    "category": "dev",
+    "tags": [
+      "技术文档"
+    ],
+    "country": "国际",
+    "language": "英文",
+    "views": 115259,
+    "likes": 353,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "figma_dev",
+    "name": "Figma Dev Mode",
+    "logo": "",
+    "url": "https://www.figma.com/dev-mode",
+    "description": "Figma 开发者模式。",
+    "category": "design",
+    "tags": [
+      "UI设计"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 787513,
+    "likes": 2381,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "qwen_code",
+    "name": "Qwen Code",
+    "logo": "",
+    "url": "https://qwen.ai",
+    "description": "通义千问代码模型。",
+    "category": "ai",
+    "tags": [
+      "AI编程"
+    ],
+    "country": "中国",
+    "language": "中文",
+    "views": 367281,
+    "likes": 7410,
+    "updated": "2026-10-06"
+  },
+  {
+    "id": "vercel_docs",
+    "name": "Vercel Docs",
+    "logo": "",
+    "url": "https://vercel.com/docs",
+    "description": "Vercel 官方文档。",
+    "category": "webmaster",
+    "tags": [
+      "主机与服务器"
+    ],
+    "country": "美国",
+    "language": "英文",
+    "views": 459155,
+    "likes": 6203,
+    "updated": "2026-10-06"
   }
 ]
