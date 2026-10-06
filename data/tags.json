@@ -1,0 +1,443 @@
+{
+  "AI聊天": [
+    "chatgpt",
+    "claude",
+    "gemini",
+    "deepseek",
+    "qwen",
+    "kimi",
+    "doubao",
+    "copilot"
+  ],
+  "大模型": [
+    "chatgpt",
+    "claude",
+    "gemini",
+    "deepseek",
+    "qwen",
+    "kimi",
+    "doubao"
+  ],
+  "AI编程": [
+    "copilot",
+    "cursor"
+  ],
+  "AI绘图": [
+    "midjourney"
+  ],
+  "AI视频": [
+    "runway"
+  ],
+  "AI音乐": [
+    "suno"
+  ],
+  "AI搜索": [
+    "perplexity"
+  ],
+  "本地模型": [
+    "ollama"
+  ],
+  "开源": [
+    "ollama",
+    "huggingface",
+    "openstreetmap",
+    "freecodecamp",
+    "vscode",
+    "github",
+    "mysql",
+    "postgresql",
+    "fdroid",
+    "firefox",
+    "magisk",
+    "mame",
+    "obs",
+    "drawio",
+    "ourairports",
+    "wordpress"
+  ],
+  "AI模型": [
+    "huggingface"
+  ],
+  "综合搜索": [
+    "google",
+    "bing",
+    "baidu",
+    "duckduckgo"
+  ],
+  "隐私": [
+    "duckduckgo"
+  ],
+  "长视频": [
+    "youtube",
+    "bilibili"
+  ],
+  "动漫": [
+    "bilibili"
+  ],
+  "影视平台": [
+    "netflix"
+  ],
+  "短视频": [
+    "douyin"
+  ],
+  "社交平台": [
+    "twitter",
+    "weibo"
+  ],
+  "社区论坛": [
+    "reddit"
+  ],
+  "即时通讯": [
+    "telegram"
+  ],
+  "国际新闻": [
+    "bbc",
+    "cnn",
+    "xinhua"
+  ],
+  "科技新闻": [
+    "techcrunch"
+  ],
+  "地图服务": [
+    "googlemaps",
+    "amap",
+    "openstreetmap"
+  ],
+  "在线翻译": [
+    "googletranslate",
+    "deepl",
+    "youdao"
+  ],
+  "免费邮箱": [
+    "gmail",
+    "outlook",
+    "qqmail"
+  ],
+  "云存储": [
+    "googledrive",
+    "dropbox"
+  ],
+  "网盘": [
+    "baidupan"
+  ],
+  "在线课程": [
+    "coursera",
+    "khanacademy",
+    "mooc163"
+  ],
+  "编程学习": [
+    "freecodecamp"
+  ],
+  "技术文档": [
+    "mdn"
+  ],
+  "百科知识": [
+    "wikipedia"
+  ],
+  "电子书": [
+    "zlibrary"
+  ],
+  "论文平台": [
+    "arxiv",
+    "cnki"
+  ],
+  "学术搜索": [
+    "googlescholar"
+  ],
+  "编程语言": [
+    "python",
+    "javascript",
+    "go",
+    "rust"
+  ],
+  "IDE": [
+    "vscode"
+  ],
+  "代码托管": [
+    "github",
+    "gitlab",
+    "gitee"
+  ],
+  "Git": [
+    "github"
+  ],
+  "DevOps": [
+    "gitlab"
+  ],
+  "容器": [
+    "dockerhub",
+    "docker",
+    "kubernetes"
+  ],
+  "镜像": [
+    "dockerhub"
+  ],
+  "MySQL": [
+    "mysql"
+  ],
+  "PostgreSQL": [
+    "postgresql"
+  ],
+  "MongoDB": [
+    "mongodb"
+  ],
+  "Redis": [
+    "redis"
+  ],
+  "Docker": [
+    "docker"
+  ],
+  "Kubernetes": [
+    "kubernetes"
+  ],
+  "Nginx": [
+    "nginx"
+  ],
+  "Linux": [
+    "btpanel",
+    "debian"
+  ],
+  "面板": [
+    "btpanel"
+  ],
+  "CDN": [
+    "cloudflare"
+  ],
+  "DNS": [
+    "cloudflare"
+  ],
+  "WHOIS查询": [
+    "whois"
+  ],
+  "网速测试": [
+    "speedtest"
+  ],
+  "漏洞数据库": [
+    "cve"
+  ],
+  "安全工具": [
+    "virustotal"
+  ],
+  "威胁情报": [
+    "shodan"
+  ],
+  "软件": [
+    "microsoft",
+    "fdroid"
+  ],
+  "系统镜像": [
+    "ubuntu"
+  ],
+  "Windows": [
+    "windows"
+  ],
+  "Android": [
+    "androidos"
+  ],
+  "Chromium": [
+    "chrome",
+    "edge"
+  ],
+  "Firefox": [
+    "firefox"
+  ],
+  "APK": [
+    "apkmirror"
+  ],
+  "Root": [
+    "magisk"
+  ],
+  "Magisk": [
+    "magisk"
+  ],
+  "模拟器": [
+    "bluestacks",
+    "mame"
+  ],
+  "iOS": [
+    "apple",
+    "macrumors"
+  ],
+  "macOS": [
+    "apple",
+    "macrumors"
+  ],
+  "Steam": [
+    "steam"
+  ],
+  "游戏平台": [
+    "epic"
+  ],
+  "街机游戏": [
+    "mame"
+  ],
+  "MOD资源": [
+    "nexusmods"
+  ],
+  "音乐平台": [
+    "spotify",
+    "net163"
+  ],
+  "音效资源": [
+    "freesound"
+  ],
+  "图片素材": [
+    "unsplash"
+  ],
+  "UI设计": [
+    "figma",
+    "canva"
+  ],
+  "图标": [
+    "fontawesome"
+  ],
+  "视频编辑": [
+    "capcut",
+    "davinci"
+  ],
+  "直播工具": [
+    "obs"
+  ],
+  "Office": [
+    "notion",
+    "feishu"
+  ],
+  "PDF": [
+    "ilovepdf"
+  ],
+  "流程图": [
+    "drawio"
+  ],
+  "开发工具": [
+    "regex101",
+    "jsoncn"
+  ],
+  "汇率换算": [
+    "exchangerate"
+  ],
+  "时区换算": [
+    "timeanddate"
+  ],
+  "IP查询": [
+    "ip138",
+    "ipinfo"
+  ],
+  "手机归属地": [
+    "ip138"
+  ],
+  "企业查询": [
+    "tianyancha"
+  ],
+  "天气": [
+    "accuweather",
+    "windy",
+    "cma"
+  ],
+  "NASA": [
+    "nasa"
+  ],
+  "SpaceX": [
+    "spacex"
+  ],
+  "卫星追踪": [
+    "n2yo"
+  ],
+  "股票": [
+    "yahoo_finance",
+    "eastmoney"
+  ],
+  "黄金": [
+    "goldprice"
+  ],
+  "综合电商": [
+    "amazon",
+    "taobao",
+    "jd"
+  ],
+  "招聘网站": [
+    "linkedin",
+    "bosszhipin",
+    "lagou"
+  ],
+  "快递查询": [
+    "17track"
+  ],
+  "国际快递": [
+    "dhl"
+  ],
+  "海运": [
+    "maersk"
+  ],
+  "航空公司": [
+    "flightradar24",
+    "ctrip"
+  ],
+  "铁路": [
+    "12306"
+  ],
+  "医疗机构": [
+    "mayoclinic"
+  ],
+  "医学资源": [
+    "dxy",
+    "pubmed"
+  ],
+  "中国政府": [
+    "govcn"
+  ],
+  "美国政府": [
+    "whitehouse"
+  ],
+  "联合国机构": [
+    "un"
+  ],
+  "世界500强": [
+    "fortune500"
+  ],
+  "科技企业": [
+    "tencent",
+    "alibaba"
+  ],
+  "国家资料": [
+    "cia_factbook",
+    "worldbank"
+  ],
+  "城市资料": [
+    "geonames",
+    "numbeo"
+  ],
+  "IATA代码": [
+    "iata"
+  ],
+  "机场信息": [
+    "ourairports"
+  ],
+  "港口代码": [
+    "marinetraffic"
+  ],
+  "邮编规则": [
+    "upupost"
+  ],
+  "域名注册": [
+    "namecheap"
+  ],
+  "主机与服务器": [
+    "aliyun",
+    "vultr",
+    "vercel"
+  ],
+  "SEO工具": [
+    "ahrefs",
+    "webarchive"
+  ],
+  "统计分析": [
+    "google_analytics",
+    "similarweb"
+  ],
+  "CMS系统": [
+    "wordpress"
+  ],
+  "SSL证书": [
+    "letsencrypt"
+  ]
+}
