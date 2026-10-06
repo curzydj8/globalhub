@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { @apply bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100; }
+
+/* Markdown 百科正文 */
+.markdown-body { @apply text-gray-700 dark:text-gray-300 leading-8; }
+.markdown-body h2 { @apply text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-white; }
+.markdown-body h3 { @apply text-xl font-bold mt-6 mb-3 text-gray-900 dark:text-white; }
+.markdown-body p { @apply my-4; }
+.markdown-body ul { @apply list-disc ml-6 my-4; }
+.markdown-body a { @apply text-indigo-600 dark:text-indigo-400 underline; }
+.markdown-body code { @apply bg-gray-100 dark:bg-gray-800 px-1.5 py-0.5 rounded text-sm; }
+.markdown-body pre { @apply bg-gray-900 text-gray-100 p-4 rounded-xl overflow-x-auto my-4; }
+.markdown-body pre code { @apply bg-transparent p-0; }
