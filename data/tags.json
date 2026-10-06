@@ -7,7 +7,13 @@
     "qwen",
     "kimi",
     "doubao",
-    "copilot"
+    "copilot",
+    "grok",
+    "mistral",
+    "llama",
+    "poe",
+    "characterai",
+    "notebooklm"
   ],
   "大模型": [
     "chatgpt",
@@ -16,23 +22,51 @@
     "deepseek",
     "qwen",
     "kimi",
-    "doubao"
+    "doubao",
+    "grok",
+    "mistral",
+    "llama",
+    "poe",
+    "groq",
+    "together",
+    "kimi_k2"
   ],
   "AI编程": [
     "copilot",
-    "cursor"
+    "cursor",
+    "phind",
+    "blackbox",
+    "codeium",
+    "v0",
+    "bolt",
+    "tabnine",
+    "replit",
+    "lovable",
+    "claude_code",
+    "windsurf",
+    "qwen_code"
   ],
   "AI绘图": [
-    "midjourney"
+    "midjourney",
+    "stability",
+    "leonardo",
+    "ideogram",
+    "civitai"
   ],
   "AI视频": [
-    "runway"
+    "runway",
+    "heygen",
+    "pika",
+    "luma"
   ],
   "AI音乐": [
-    "suno"
+    "suno",
+    "udio"
   ],
   "AI搜索": [
-    "perplexity"
+    "perplexity",
+    "you",
+    "phind"
   ],
   "本地模型": [
     "ollama"
@@ -53,23 +87,60 @@
     "obs",
     "drawio",
     "ourairports",
-    "wordpress"
+    "wordpress",
+    "dify",
+    "codeberg",
+    "mariadb",
+    "supabase",
+    "grafana",
+    "prometheus",
+    "jenkins",
+    "caddy",
+    "blender",
+    "aegisub",
+    "blender_video",
+    "libreoffice",
+    "readthedocs",
+    "drupal",
+    "joomla",
+    "typecho",
+    "fosshub",
+    "lineageos",
+    "scrcpy",
+    "aurora",
+    "kimi_k2"
   ],
   "AI模型": [
-    "huggingface"
+    "huggingface",
+    "civitai",
+    "replicate"
   ],
   "综合搜索": [
     "google",
     "bing",
     "baidu",
-    "duckduckgo"
+    "duckduckgo",
+    "ecosia",
+    "brave_search",
+    "naver",
+    "sogou",
+    "360search",
+    "yandex"
   ],
   "隐私": [
-    "duckduckgo"
+    "duckduckgo",
+    "brave_search",
+    "protonmail",
+    "tutanota"
   ],
   "长视频": [
     "youtube",
-    "bilibili"
+    "bilibili",
+    "iqiyi",
+    "tencent_video",
+    "youku",
+    "vimeo",
+    "dailymotion"
   ],
   "动漫": [
     "bilibili"
@@ -78,58 +149,112 @@
     "netflix"
   ],
   "短视频": [
-    "douyin"
+    "douyin",
+    "kuaishou"
   ],
   "社交平台": [
     "twitter",
-    "weibo"
+    "weibo",
+    "instagram",
+    "facebook",
+    "linkedin_cn",
+    "xiaohongshu"
   ],
   "社区论坛": [
-    "reddit"
+    "reddit",
+    "douban",
+    "tieba"
   ],
   "即时通讯": [
-    "telegram"
+    "telegram",
+    "discord",
+    "whatsapp"
   ],
   "国际新闻": [
     "bbc",
     "cnn",
-    "xinhua"
+    "xinhua",
+    "reuters",
+    "apnews",
+    "guardian",
+    "nyt",
+    "thepaper"
   ],
   "科技新闻": [
-    "techcrunch"
+    "techcrunch",
+    "theverge",
+    "wired",
+    "hackernews"
   ],
   "地图服务": [
     "googlemaps",
     "amap",
-    "openstreetmap"
+    "openstreetmap",
+    "baidu_map",
+    "here",
+    "wikimapia",
+    "tencent_map"
   ],
   "在线翻译": [
     "googletranslate",
     "deepl",
-    "youdao"
+    "youdao",
+    "baidu_translate",
+    "tencent_translate"
   ],
   "免费邮箱": [
     "gmail",
     "outlook",
-    "qqmail"
+    "qqmail",
+    "protonmail",
+    "tutanota",
+    "163mail",
+    "126mail",
+    "sina_mail"
   ],
   "云存储": [
     "googledrive",
-    "dropbox"
+    "dropbox",
+    "onedrive",
+    "icloud",
+    "mega",
+    "jianzuo"
   ],
   "网盘": [
-    "baidupan"
+    "baidupan",
+    "alipan",
+    "ctfile",
+    "weiyun",
+    "quark_pan",
+    "lanzou"
   ],
   "在线课程": [
     "coursera",
     "khanacademy",
-    "mooc163"
+    "mooc163",
+    "edx",
+    "udemy",
+    "udacity",
+    "ted",
+    "mit_ocw"
   ],
   "编程学习": [
-    "freecodecamp"
+    "freecodecamp",
+    "codecademy",
+    "leetcode",
+    "leetcode_cn",
+    "kaggle_learn"
   ],
   "技术文档": [
-    "mdn"
+    "mdn",
+    "github_copilot_docs",
+    "gitbook",
+    "readthedocs",
+    "devdocs",
+    "overapi",
+    "gitlab_docs",
+    "docker_docs",
+    "k8s_docs"
   ],
   "百科知识": [
     "wikipedia"
@@ -139,30 +264,45 @@
   ],
   "论文平台": [
     "arxiv",
-    "cnki"
+    "cnki",
+    "researchgate",
+    "scihub",
+    "jstor",
+    "plos"
   ],
   "学术搜索": [
-    "googlescholar"
+    "googlescholar",
+    "semanticscholar"
   ],
   "编程语言": [
     "python",
     "javascript",
     "go",
-    "rust"
+    "rust",
+    "typescript",
+    "deno"
   ],
   "IDE": [
-    "vscode"
+    "vscode",
+    "jetbrains"
   ],
   "代码托管": [
     "github",
     "gitlab",
-    "gitee"
+    "gitee",
+    "codeberg"
   ],
   "Git": [
-    "github"
+    "github",
+    "git"
   ],
   "DevOps": [
-    "gitlab"
+    "gitlab",
+    "grafana",
+    "prometheus",
+    "jenkins",
+    "ansible",
+    "terraform"
   ],
   "容器": [
     "dockerhub",
@@ -173,7 +313,9 @@
     "dockerhub"
   ],
   "MySQL": [
-    "mysql"
+    "mysql",
+    "mariadb",
+    "planetscale"
   ],
   "PostgreSQL": [
     "postgresql"
@@ -185,20 +327,25 @@
     "redis"
   ],
   "Docker": [
-    "docker"
+    "docker",
+    "portainer"
   ],
   "Kubernetes": [
     "kubernetes"
   ],
   "Nginx": [
-    "nginx"
+    "nginx",
+    "caddy"
   ],
   "Linux": [
     "btpanel",
-    "debian"
+    "debian",
+    "onepanel",
+    "linuxcn"
   ],
   "面板": [
-    "btpanel"
+    "btpanel",
+    "onepanel"
   ],
   "CDN": [
     "cloudflare"
@@ -223,10 +370,23 @@
   ],
   "软件": [
     "microsoft",
-    "fdroid"
+    "fdroid",
+    "chrome_webstore",
+    "filehorse",
+    "majorgeeks",
+    "fosshub",
+    "ninite",
+    "softonic"
   ],
   "系统镜像": [
-    "ubuntu"
+    "ubuntu",
+    "rufus",
+    "ventoy",
+    "archlinux",
+    "fedora",
+    "manjaro",
+    "deepin",
+    "kali"
   ],
   "Windows": [
     "windows"
@@ -236,13 +396,23 @@
   ],
   "Chromium": [
     "chrome",
-    "edge"
+    "edge",
+    "vivaldi",
+    "arc",
+    "opera",
+    "samsung_internet",
+    "via"
   ],
   "Firefox": [
     "firefox"
   ],
   "APK": [
-    "apkmirror"
+    "apkmirror",
+    "coolapk",
+    "apkpure",
+    "uptodown",
+    "aurora",
+    "gsmarena"
   ],
   "Root": [
     "magisk"
@@ -256,17 +426,26 @@
   ],
   "iOS": [
     "apple",
-    "macrumors"
+    "macrumors",
+    "apple_support",
+    "apple_developer",
+    "9to5mac"
   ],
   "macOS": [
     "apple",
-    "macrumors"
+    "macrumors",
+    "apple_support",
+    "macworld"
   ],
   "Steam": [
     "steam"
   ],
   "游戏平台": [
-    "epic"
+    "epic",
+    "gog",
+    "itchio",
+    "roblox",
+    "minecraft"
   ],
   "街机游戏": [
     "mame"
@@ -276,41 +455,76 @@
   ],
   "音乐平台": [
     "spotify",
-    "net163"
+    "net163",
+    "apple_music",
+    "youtube_music",
+    "qq_music",
+    "kugou",
+    "kuwo",
+    "bandcamp",
+    "soundcloud",
+    "lastfm",
+    "douban_music",
+    "genius",
+    "ultimate_guitar"
   ],
   "音效资源": [
     "freesound"
   ],
   "图片素材": [
-    "unsplash"
+    "unsplash",
+    "pinterest",
+    "pexels",
+    "pixabay"
   ],
   "UI设计": [
     "figma",
-    "canva"
+    "canva",
+    "dribbble",
+    "behance",
+    "coolors",
+    "figma_dev"
   ],
   "图标": [
-    "fontawesome"
+    "fontawesome",
+    "flaticon",
+    "iconfinder"
   ],
   "视频编辑": [
     "capcut",
-    "davinci"
+    "davinci",
+    "premiere",
+    "finalcut",
+    "blender_video",
+    "filmora",
+    "bcut"
   ],
   "直播工具": [
-    "obs"
+    "obs",
+    "streamlabs"
   ],
   "Office": [
     "notion",
-    "feishu"
+    "feishu",
+    "ms_office",
+    "wps",
+    "google_docs",
+    "libreoffice"
   ],
   "PDF": [
-    "ilovepdf"
+    "ilovepdf",
+    "smallpdf"
   ],
   "流程图": [
-    "drawio"
+    "drawio",
+    "processon"
   ],
   "开发工具": [
     "regex101",
-    "jsoncn"
+    "jsoncn",
+    "regexr",
+    "caniuse",
+    "screenshot"
   ],
   "汇率换算": [
     "exchangerate"
@@ -320,7 +534,8 @@
   ],
   "IP查询": [
     "ip138",
-    "ipinfo"
+    "ipinfo",
+    "ipchicken"
   ],
   "手机归属地": [
     "ip138"
@@ -344,7 +559,11 @@
   ],
   "股票": [
     "yahoo_finance",
-    "eastmoney"
+    "eastmoney",
+    "tradingview",
+    "xueqiu",
+    "tonghuashun",
+    "futu"
   ],
   "黄金": [
     "goldprice"
@@ -352,92 +571,348 @@
   "综合电商": [
     "amazon",
     "taobao",
-    "jd"
+    "jd",
+    "ebay",
+    "pinduoduo",
+    "sunin",
+    "vipshop"
   ],
   "招聘网站": [
     "linkedin",
     "bosszhipin",
-    "lagou"
+    "lagou",
+    "liepin",
+    "51job",
+    "indeed",
+    "glassdoor"
   ],
   "快递查询": [
-    "17track"
+    "17track",
+    "sf_express",
+    "jd_logistics",
+    "kuaidi100"
   ],
   "国际快递": [
-    "dhl"
+    "dhl",
+    "ups",
+    "fedex"
   ],
   "海运": [
-    "maersk"
+    "maersk",
+    "cosco"
   ],
   "航空公司": [
     "flightradar24",
-    "ctrip"
+    "ctrip",
+    "flightaware",
+    "tripadvisor",
+    "booking",
+    "airbnb",
+    "qunar",
+    "tongcheng",
+    "fliggy",
+    "didi",
+    "uber"
   ],
   "铁路": [
     "12306"
   ],
   "医疗机构": [
-    "mayoclinic"
+    "mayoclinic",
+    "nih",
+    "who",
+    "haodf"
   ],
   "医学资源": [
     "dxy",
-    "pubmed"
+    "pubmed",
+    "webmd",
+    "nejm"
   ],
   "中国政府": [
     "govcn"
   ],
   "美国政府": [
-    "whitehouse"
+    "whitehouse",
+    "usa_gov"
   ],
   "联合国机构": [
     "un"
   ],
   "世界500强": [
-    "fortune500"
+    "fortune500",
+    "forbes"
   ],
   "科技企业": [
     "tencent",
-    "alibaba"
+    "alibaba",
+    "crunchbase",
+    "qcc"
   ],
   "国家资料": [
     "cia_factbook",
-    "worldbank"
+    "worldbank",
+    "nationsonline",
+    "worldometers",
+    "indexmundi"
   ],
   "城市资料": [
     "geonames",
-    "numbeo"
+    "numbeo",
+    "citypopulation"
   ],
   "IATA代码": [
-    "iata"
+    "iata",
+    "world_airport_codes"
   ],
   "机场信息": [
-    "ourairports"
+    "ourairports",
+    "flightstats"
   ],
   "港口代码": [
-    "marinetraffic"
+    "marinetraffic",
+    "porttechnology",
+    "worldportsource"
   ],
   "邮编规则": [
-    "upupost"
+    "upupost",
+    "geonames_postal"
   ],
   "域名注册": [
-    "namecheap"
+    "namecheap",
+    "godaddy",
+    "cloudflare_reg",
+    "west263",
+    "dnspod"
   ],
   "主机与服务器": [
     "aliyun",
     "vultr",
-    "vercel"
+    "vercel",
+    "tencent_cloud",
+    "huawei_cloud",
+    "bandwagonhost",
+    "netlify",
+    "vercel_docs"
   ],
   "SEO工具": [
     "ahrefs",
-    "webarchive"
+    "webarchive",
+    "moz",
+    "semrush"
   ],
   "统计分析": [
     "google_analytics",
-    "similarweb"
+    "similarweb",
+    "baidu_tongji",
+    "cnzz"
   ],
   "CMS系统": [
-    "wordpress"
+    "wordpress",
+    "drupal",
+    "joomla",
+    "typecho"
   ],
   "SSL证书": [
-    "letsencrypt"
+    "letsencrypt",
+    "zerossl"
+  ],
+  "AI配音": [
+    "elevenlabs",
+    "heygen"
+  ],
+  "AI办公": [
+    "gamma"
+  ],
+  "AI基础设施": [
+    "groq",
+    "together"
+  ],
+  "AI Agent": [
+    "langchain",
+    "dify",
+    "coze"
+  ],
+  "开发框架": [
+    "langchain",
+    "react",
+    "vue",
+    "nextjs",
+    "tailwind"
+  ],
+  "编程社区": [
+    "stackoverflow"
+  ],
+  "包管理": [
+    "npm",
+    "pypi"
+  ],
+  "API平台": [
+    "postman",
+    "swagger"
+  ],
+  "开源社区": [
+    "sourceforge",
+    "opencollective",
+    "apache",
+    "fsf"
+  ],
+  "数据库": [
+    "sqlite",
+    "elasticsearch",
+    "supabase"
+  ],
+  "数据库工具": [
+    "dbeaver"
+  ],
+  "云服务器": [
+    "digitalocean",
+    "linode",
+    "bandwagon"
+  ],
+  "SSL检测": [
+    "ssl_labs"
+  ],
+  "DNS查询": [
+    "dnschecker"
+  ],
+  "字体": [
+    "googlefonts",
+    "dafont"
+  ],
+  "3D模型": [
+    "blender",
+    "sketchfab"
+  ],
+  "图片工具": [
+    "remove_bg",
+    "tinypng"
+  ],
+  "字幕工具": [
+    "aegisub",
+    "arc_time"
+  ],
+  "思维导图": [
+    "xmind"
+  ],
+  "二维码": [
+    "qr_code"
+  ],
+  "文件转换": [
+    "convertio"
+  ],
+  "临时邮箱": [
+    "temp_mail",
+    "10minutemail"
+  ],
+  "计算工具": [
+    "desmos",
+    "wolfram"
+  ],
+  "数据可视化": [
+    "earthnull"
+  ],
+  "网络工具": [
+    "downforeveryone"
+  ],
+  "英语学习": [
+    "duolingo",
+    "bbc_learning"
+  ],
+  "学术资源": [
+    "wiki_how",
+    "openstax",
+    "jianshu",
+    "zhihu"
+  ],
+  "科研机构": [
+    "nature",
+    "science",
+    "orcid"
+  ],
+  "财经新闻": [
+    "wsj",
+    "ft",
+    "caixin",
+    "bloomberg",
+    "cnbc"
+  ],
+  "游戏媒体": [
+    "ign",
+    "gamespot",
+    "pcgamer"
+  ],
+  "直播平台": [
+    "huya",
+    "douyu",
+    "twitch"
+  ],
+  "企业协作": [
+    "slack",
+    "teams"
+  ],
+  "播客": [
+    "ximalaya",
+    "lizhi"
+  ],
+  "视频会议": [
+    "zoom"
+  ],
+  "加密货币": [
+    "coinmarketcap",
+    "binance"
+  ],
+  "支付": [
+    "paypal",
+    "stripe",
+    "alipay"
+  ],
+  "跨境电商": [
+    "aliexpress",
+    "shein",
+    "temu"
+  ],
+  "优惠信息": [
+    "smzdm",
+    "etao"
+  ],
+  "地址格式": [
+    "addressdoctor"
+  ],
+  "电话格式": [
+    "countrycode"
+  ],
+  "欧盟机构": [
+    "europa",
+    "gov_uk"
+  ],
+  "广告联盟": [
+    "adsense",
+    "alimama"
+  ],
+  "建站模板": [
+    "themeforest",
+    "w3schools_templates"
+  ],
+  "航线资料": [
+    "searates"
+  ],
+  "图片搜索": [
+    "bing_images",
+    "unsplash_search"
+  ],
+  "隐私浏览器": [
+    "brave",
+    "tor"
+  ],
+  "安卓开发": [
+    "xda",
+    "android_dev",
+    "scrcpy",
+    "adb"
+  ],
+  "ROM": [
+    "lineageos",
+    "twrp"
   ]
 }
