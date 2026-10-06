@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/likes/page": "app/likes/page.js",
+  "/search/page": "app/search/page.js",
+  "/ranking/page": "app/ranking/page.js",
+  "/tags/[tag]/page": "app/tags/[tag]/page.js",
+  "/site/[id]/page": "app/site/[id]/page.js",
+  "/tags/page": "app/tags/page.js",
+  "/category/[slug]/page": "app/category/[slug]/page.js",
+  "/about/page": "app/about/page.js",
+  "/page": "app/page.js"
+}
