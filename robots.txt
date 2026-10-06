@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://curzydj8.github.io/globalhub/sitemap.xml
