@@ -8,7 +8,14 @@
 
 - Next.js 15 (App Router, `output: 'export'` 全静态导出)
 - Tailwind CSS 3
-- GitHub Pages + GitHub Actions 自动部署
+- GitHub Pages（gh-pages 分支）+ 每日自动更新 cron
+
+## 部署
+
+- 源码在 `main` 分支；`npm run build` 产物 `out/` 推送到 `gh-pages` 分支，Pages 从该分支发布
+- 推送脚本：`tools/deploy_ghpages.py`（Git Database API 批量上传，支持断点续传）
+- 每日 08:19（北京时间）自动更新：`tools/daily_update.sh`（合并点赞 → 重算数据 → 重新构建 → 推送）
+- `.github/workflows/` 保留了 Actions 方案（deploy/update/sync-likes），需有 workflow 权限的 token 才能启用
 
 ## 本地开发
 
