@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/likes/page": "/likes",
+  "/search/page": "/search",
+  "/ranking/page": "/ranking",
+  "/tags/[tag]/page": "/tags/[tag]",
+  "/site/[id]/page": "/site/[id]",
+  "/tags/page": "/tags",
+  "/category/[slug]/page": "/category/[slug]",
+  "/about/page": "/about",
+  "/page": "/"
+}
