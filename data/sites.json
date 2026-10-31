@@ -17225,5 +17225,24 @@
     "views": 783167,
     "likes": 5588,
     "updated": "2026-10-06"
+  },
+  {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "logo": "",
+    "url": "https://vostride.com",
+    "description": "vostride 的网页与移动端 AI 测试工具，具备 memidex 持久记忆、经验证的自我改进、MCP 接入与可回看的运行证据；模型费用另计。",
+    "category": "ai",
+    "tags": [
+      "AI测试",
+      "MCP",
+      "memidex"
+    ],
+    "country": "未注明",
+    "language": "英文文档",
+    "views": 0,
+    "likes": 0,
+    "updated": "2026-10-31",
+    "featured": false
   }
 ]

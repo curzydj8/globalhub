@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:12:06.272Z",
+  "updated": "2026-10-31T12:56:17.941Z",
   "global": [
     "stackoverflow",
     "deepseek",
@@ -570,7 +570,8 @@
       "midjourney",
       "you",
       "heygen",
-      "lovable"
+      "lovable",
+      "agent-qa"
     ],
     "search": [
       "google",
@@ -1820,6 +1821,7 @@
     "expedia"
   ],
   "newest": [
+    "agent-qa",
     "chatgpt",
     "claude",
     "gemini",
@@ -1868,7 +1870,6 @@
     "mooc163",
     "freecodecamp",
     "mdn",
-    "wikipedia",
-    "zlibrary"
+    "wikipedia"
   ]
 }
