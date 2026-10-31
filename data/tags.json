@@ -1541,5 +1541,14 @@
   "网络电台": [
     "radio_garden",
     "my_tuner"
+  ],
+  "AI测试": [
+    "agent-qa"
+  ],
+  "MCP": [
+    "agent-qa"
+  ],
+  "memidex": [
+    "agent-qa"
   ]
 }
